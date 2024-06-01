@@ -1,0 +1,10 @@
+---
+title: Projets
+layout: collection
+permalink: /projets/
+collection: projets
+entries_layout: grid
+---
+
+En cours de construction.
+
