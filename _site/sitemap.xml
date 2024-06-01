@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/bendjelal/docs/publications/2020/06/25/cell.html</loc>
+<lastmod>2020-06-25T17:31:17+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/bendjelal/projets/chocolate-chip-cookies/</loc>
+<lastmod>2024-06-01T23:13:17+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/bendjelal/recipes/chocolate-chip-cookies/</loc>
+<lastmod>2024-06-01T23:13:17+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/bendjelal/about/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/bendjelal/enseignement/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/bendjelal/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/bendjelal/projets/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/bendjelal/publications/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/bendjelal/recipes/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/bendjelal/theme-setup/</loc>
+<lastmod>2018-02-02T20:12:02+01:00</lastmod>
+</url>
+</urlset>

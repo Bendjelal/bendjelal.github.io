@@ -1,0 +1,16 @@
+# Sample site navigation bar links
+
+- title: Home
+  url: /
+- title: Projets
+  url: /projets/
+- title: Publications
+  url: /publications/
+- title: Enseignement
+  url: /enseignement/
+#- title: Recette
+ # url: /recipes/
+#- title: A propos
+#  url: /apropos/
+- title: Recherche
+  url: /search/
