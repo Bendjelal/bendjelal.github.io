@@ -1,5 +1,5 @@
 ---
-layout: publications
+layout: posts
 order: 1
 ---
 
