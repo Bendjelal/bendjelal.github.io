@@ -4,7 +4,7 @@ layout: page
 permalink: /enseignement/
 ---
 
-En cours de construction. 
+En cours de construction.  
 
 # Vulgarisation
 
