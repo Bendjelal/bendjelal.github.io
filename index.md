@@ -15,13 +15,11 @@ Je me spécialise dans l'analyse de données, le machine learning et les technol
 
 # Formations
 
-**2024 :** Diplôme de Formation Approfondies en Sciences Médicales
+**2024 :** Diplôme de Formation Approfondies en Sciences Médicales, *Sorbonne Université*
 
-**2021 :** Diplôme de Formation Générale en Sciences Médicales
+**2021 :** Master en Chimie pour les Sciences du Vivant, *Sorbonne Université*
 
-**2021 :** Master en Chimie pour les Sciences du Vivant, _Sorbonne Université _
-
-**2020 :** Master en Informatique, _Sorbonne Université _
+**2020 :** Master en Informatique, *Sorbonne Université*
 
 # Contact
 
