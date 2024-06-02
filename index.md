@@ -23,6 +23,8 @@ Je me spécialise dans l'analyse de données, le machine learning et les technol
 
 **2020 :** Master en Informatique, *Sorbonne Université*
 
+**2019 :** Troisième année du cycle ingénieur, *Ecole polytechnique*
+
 # Contact
 
 Pour une collaboration, vous pouvez me contacter via [Linkedin](https://www.linkedin.com/in/yanis-bendjelal/?locale=fr_FR).
