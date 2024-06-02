@@ -13,6 +13,8 @@ Je me spécialise dans l'analyse de données, le machine learning et les technol
 
 # Nouveautés
 
+* **Mai 2024** : Fin du deuxième cycle des études médicales
+
 # Formations
 
 **2024 :** Diplôme de Formation Approfondies en Sciences Médicales, *Sorbonne Université*
@@ -23,4 +25,4 @@ Je me spécialise dans l'analyse de données, le machine learning et les technol
 
 # Contact
 
-Pour une collaboration, vous pouvez me contacter via Linkedin : https://www.linkedin.com/in/yanis-bendjelal/?locale=fr_FR.
+Pour une collaboration, vous pouvez me contacter via [Linkedin](https://www.linkedin.com/in/yanis-bendjelal/?locale=fr_FR).
