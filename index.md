@@ -3,13 +3,11 @@ layout: page
 order: 1
 ---
 
-# A propos
+Médecin et chercheur, je viens de terminer le second cycle de mes études de Médecine.
 
-Étudiant en double-cursus Médecine-Sciences à Sorbonne Université, je viens de terminer le second cycle de mes études de Médecine.  
-  
-Avant cela, j'ai entrepris une césure entre 2018 et 2020 pour donner un aspect plus quantitatif à ma formation. J'ai d’abord suivi la 3ème année du cycle ingénieur de l'Ecole polytechnique où j'ai suivi en parallèle les parcours "Biologie" et "Bioinformatique". J'ai ensuite suivi en parallèle le M2 d'Informatique de Sorbonne Université et le M2 Chimie de l'ENS de Paris - PSL. J'ai obtenu une mention Très bien à l'ensemble de ces formations.  
+En médecine, je m'intéresse à l'allergologie et à la chirurgie ORL.
 
-Je me spécialise dans l'analyse de données, le machine learning et les technologies omiques. Je suis aussi intéressé par le développement du machine learning interprétable pour la santé, et par l'application de l'analyse de données à grande échelle en santé humaine.
+En recherche, je m'intéresse à l'analyse de données à grande échelle et au machine learning, en particulier par le développement du machine learning interprétable pour la santé.
 
 # Nouveautés
 
