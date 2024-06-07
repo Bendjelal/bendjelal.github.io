@@ -14,10 +14,9 @@ layout: post
 
 # Filtrer un échantillon brut de terre pour en sortir les pigments (pigments minéraux ++)
 
+## Partie 1 : retirer les impuretés de la terre (cailloux, herbe, etc.) = "nettoyer" la terre  
 
-## Partie 1 : retirer les impuretés de la terre (cailloux, herbe, etc.) = "nettoyer" la terre
-
-**But** : Minimiser les corps étrangers dans l'échantillon de terre.
+**But** : Minimiser les corps étrangers dans l'échantillon de terre.  
 
 Méthode (a tester) : 
 1) passage de la terre dans un filtre grossier, en mouillant pour récupérer un maximum de terre   
@@ -35,9 +34,9 @@ ss
 
 # Purifier une solution colorée avant précipitation des pigments (pigments organiques ++)
 
-**But** : obtenir un liquide le plus pur possible, c'est-à-dire débarassé des petites particules solides. Particulièrement utile avant l'étape de précipitation des pigments (qu'on récupérera secondairement par une nouvelle filtration).    
-*Rappel* : on récupère les pigments solides en les faisant précipiter à partir de la solution colorée liquide. On y ajoute pour cela de l'alun (mordant) et de la soude (base forte).
+**But** : obtenir un liquide le plus pur possible, c'est-à-dire débarassé des petites particules solides. Particulièrement utile avant l'étape de précipitation des pigments (qu'on récupérera secondairement par une nouvelle filtration).      
+*Rappel* : on récupère les pigments solides en les faisant précipiter à partir de la solution colorée liquide. On y ajoute pour cela de l'alun (mordant) et de la soude (base forte).   
 
-**Méthode (testée et validée)** :
-1) 1 passage avec un filtre de taille moyenne —> supprime les plus gros morceaux
-2) 1 autre passage avec un filtre très fin (2 disques de coton dans un entonnoir) —> supprime les plus petits morceaux
+**Méthode (testée et validée)** :  
+1) 1 passage avec un filtre de taille moyenne —> supprime les plus gros morceaux  
+2) 1 autre passage avec un filtre très fin (2 disques de coton dans un entonnoir) —> supprime les plus petits morceaux  
