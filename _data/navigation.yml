@@ -8,9 +8,11 @@
   url: /publications/
 - title: Enseignement
   url: /enseignement/
+#- title: Peinture
+#  url: /apropos/
 #- title: Recette
  # url: /recipes/
 #- title: A propos
 #  url: /apropos/
-- title: Recherche
+- title: Rechercher
   url: /search/
