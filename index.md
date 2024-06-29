@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: page
 order: 1
 ---
 
