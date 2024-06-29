@@ -4,7 +4,7 @@ layout: page
 #permalink: /enseignement/
 ---
 
-> [!WARNING]  
+> **Disclaimer :**  
 > Ce guide a été rédigé la semaine suivant les résultats des ECOS 2024, correspondant à la première année de la réforme R2C. Cette réforme a été d'une violence extrême pour les étudiants, qui ont appris à la dure que leur bien-être et la qualité de leur formation passe après les jeux politiques des élus et des syndicats.  
 > Ces vues reflètent mon état d'esprit **au moment de la rédaction**. Si vous avez un problème avec certaines des vues exposées, adressez-vous au Yanis de cette période.  
 > J'ai essayé d'être le plus exhaustif possible dans l'utilisation des supports, j'ai donc mis plusieurs liens commerciaux. Cependant je n'ai aucun partenariat avec ces acteurs et je vous encourage a bien réfléchir avant d'acheter une chose ou l'autre.
