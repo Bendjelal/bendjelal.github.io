@@ -1,6 +1,6 @@
 ---
 title: Survivre à l'externat : quelques conseils
-layout: post
+layout: page
 ---
 
 > [!WARNING]  
