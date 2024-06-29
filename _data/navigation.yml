@@ -8,11 +8,11 @@
   url: /publications/
 - title: Enseignement
   url: /enseignement/
-  subfolderitems:
   - page: Survie
-    url: /survie.html
+    url: /docs/Guide de survie externe.md
 - title: Peinture
   url: /peinture/
+  /docs/Guide de survie externe.md
 #- title: Recette
  # url: /recipes/
 #- title: A propos
