@@ -34,6 +34,9 @@ J'ai testé plusieurs mélanges :
 - 50% colle + 50% peinture : mélange très visqueux, idéal pour peindre sur des objets.
 - 33% colle % 33% peinture + 33% eau : mélange assez fluide pour du straight pour.
 
+<img src="https://cloud.githubusercontent.com/assets/yourgif.gif" width="400" height="790">
+<img src="vinylecole.jpg" height="250">
+
 <img src="vinylecole.jpg" height="250">         <img src="vinylmedium.jpg" height="250">
 
 ## Médium de lissage action
