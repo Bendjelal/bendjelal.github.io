@@ -1,4 +1,7 @@
-# Recherches et expériences médiums de lissage
+-
+title: Recherches et expériences médiums de lissage
+layout: post
+---
 
 Un médium de lissage est un liquide permettant de diluer et liquéfier l'acrylique tout en conservant ses propriétés structurelles. En comparaison, diluer avec de l'eau pure augmente le risque que la peinture craquelle en séchant.  
 Le médium de lissage peut avoir d'autres effets, comme augmenter le temps de séchage de la peinture ou diminuer le mélange des couleurs.  
