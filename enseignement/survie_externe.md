@@ -1,7 +1,7 @@
 ---
 title: Survivre à l'externat : quelques conseils
 layout: page
-permalink: /enseignement/
+#permalink: /enseignement/
 ---
 
 > [!WARNING]  
