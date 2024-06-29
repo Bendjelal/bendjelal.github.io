@@ -8,8 +8,7 @@
   url: /publications/
 - title: Enseignement
   url: /enseignement/
-  - page: Survie
-    url: /docs/Guide de survie externe.md
+  survie_externe.md
 - title: Peinture
   url: /peinture/
   /docs/Guide de survie externe.md
