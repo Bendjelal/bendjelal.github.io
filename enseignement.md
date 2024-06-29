@@ -10,4 +10,6 @@ En cours de construction.
 
 # Tutorat / cours aux externes
 
+Guide de survie à l'externat rédigé dans les semaines suivant mes ECOS : xxxx.
+
 # Ressources utiles
