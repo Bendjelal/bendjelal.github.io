@@ -1,4 +1,4 @@
--
+---
 title: Recherches et expériences médiums de lissage
 layout: post
 ---
