@@ -1,13 +1,12 @@
 ---
-title: Survivre à l'externat, quelques conseils
-layout: page
-#permalink: /enseignement/
+title: Survivre à l'externat : quelques conseils
+layout: post
 ---
 
-> **Disclaimer :**  
+> [!WARNING]  
 > Ce guide a été rédigé la semaine suivant les résultats des ECOS 2024, correspondant à la première année de la réforme R2C. Cette réforme a été d'une violence extrême pour les étudiants, qui ont appris à la dure que leur bien-être et la qualité de leur formation passe après les jeux politiques des élus et des syndicats.  
 > Ces vues reflètent mon état d'esprit **au moment de la rédaction**. Si vous avez un problème avec certaines des vues exposées, adressez-vous au Yanis de cette période.  
-> J'ai essayé d'être le plus exhaustif possible dans l'utilisation des supports, j'ai donc mis plusieurs liens commerciaux. Cependant je n'ai aucun partenariat avec ces acteurs et je vous encourage a bien réfléchir avant d'acheter une chose ou l'autre.
+> J'ai essayé d'être le plus exhaustif possible dans l'utilisation des supports, j'ai donc mis plusieurs liens commerciaux. Cependant je n'ai aucun partenariat avec ces acteurs et je vous encourage à bien réfléchir avant d'acheter une chose ou l'autre.
 
 # Général
 
@@ -16,12 +15,26 @@ layout: page
 - comprendre > apprendre
 - déteste le par coeur
 - anxieux ++
-- cursus médecine science avec césure entre P2 et D1
-- changeait de spés de ses rêves tous les mois, mais fixé sur l'ORL pendant la D3
+- cursus médecine-sciences avec césure entre P2 et D1
+- changeait de spé de mes rêves tous les mois, mais fixé sur l'ORL pendant la D3
 - plusieurs amis internes issus de ma promo pré-césure, qui me donnaient des conseils
 - parents paient la chambre étudiante
 
 ## Stages
+
+On a tous constaté que les stages sont très inégaux. Certains stages sont incroyables et nous donnent envie de faire la spécialité. D'autres stages sont nuls, on n'y apprends rien ou très peu, et l'ambiance est mauvaise voire malsaine. On peut même s'y faire harceler, j'en ai fait l'expérience.    
+
+D'un point de vue général cependant, on a une très forte pression sociale pour toujours aller en stage. L'idée est que le bon externe, celui qui va réussir, trouvera toujours des choses à y apprendre. Et, de toute façon, c'est pas comme si vous pourriez utiliser ce temps pour réviser, puisque vous avez les aprems, qui sont largement suffisants ! Spoiler : c'est faux. Il y a peut-être 100 personnes sur l'ensemble des externes français de votre année qui y parviennent. C'est cool pour eux, mais ce n'est pas une raison pour que vous vous sentiez mal, ou même moins que. Si sur 10 000 personnes sélectionnées par un concours hypercompétitif, seulement 100 se sentent bien, peut-être que le problème vient du système et pas des externes.  
+
+Ce que je veux dire, c'est pas de sécher tous les stages, mais qu'il n'y a aucune honte à être stratégique. Cad faire un bilan honnête qui prend en compte vos compétences personnelles, votre méthode de travail, vos objectifs, et l'intérêt des stages pour atteindre ceux-ci, et de régler votre temps de stage en fonction. Dans tous les cas, on vous critiquera, donc faites ce que vous voulez. Rappel : vous êtes adulte.
+
+Si vous êtes dans le genre de mauvais stage, courage. J'ai pas de solution magique, mais je peux vous dire que personne n'a le droit de demander des comptes ou de contester un arrêt de travail. Si vous sentez au fond de vous que votre santé physique ou mentale est menacée, et que votre médecin traitant est assez inquiet pour vous arrêter, n'ayez aucune hésitation à le faire. L'hôpital tournera sans vous. 
+
+Petit tips en cas de harcèlement (donné par un ami juriste quand j'ai été harcelé) : il n'y a pas de fidélité de la preuve en droit pénal. Si vous êtes harcelé verbalement,  vous pouvez donc enregistrer les preuves de harcèlement à l'insu du harceleur sur un dictaphone et, si votre fac refuse de vous écouter quand vous passez par les canaux classiques (ce qui est possible), vous pouvez aller directement au tribunal. Personnellement, j'ai signalé le harcèlement au responsable des stages de ma fac, et il m'a conseillé de présenter mes excuses :upside_down_face:).
+
+Enfin, dites-vous que le bon côté d'un mauvais stage est qu'il vous donne un exemple de ce qu'il ne faudra pas faire plus tard. Perso, j'ai une liste sur mon tel de tous les trucs que j'ai plus ou moins aimé pendant mes stages, et je compte essayer de les appliquer plus tard. Je me dit aussi que mon plus mauvais stage me permet d'apprécier mes autres stages en me donnant un exemple du pire (horrible de pensez ça je sais).
+
+Quoi qu'il en soit, mon atout majeur pour bien vivre les stages était mes co-externes. Au bout d'un moment, on a finit par devenir potes, et c'est beaucoup mieux de faire un stage dans ces conditions.
 
 ## Mode de travail
 
@@ -31,15 +44,25 @@ Travail sur les fiches lisa.
 
 ## Bien-être
 
+### Croire en soi
+
+La médecine est difficile   
+Le concours de P1 est difficile   
+Votre fac ne fait pas la charité quand elle fait des partiels  
+Si vous êtes arrivé jusque là, c'est que vous en avez le niveau  
+
+Vous n'avez aucune raison objective de vous trouver nuls
+
 ### Activité physique
 
 Conscient des bénéfices de l'activité physique (renforcement du système immunitaire, hausse de 30% de la concentration). J'ai essayé de maintenir une bonne activité physique pendant l'externat.  
 
-Vu que je ne pouvais pas pratiquer le sport que je pratiquais au lycée (pas de club de kayak à Paris), j'introduisait l'activité physique dans mon planning de cette manière :  
+Vu que je ne pouvais pas pratiquer le sport que je pratiquais au lycée (pas de club de kayak à Paris), j'introduisais l'activité physique dans mon planning de cette manière :  
 
-- faire tous mes trajets en vélo (abonnement [Vélib étudiant](https://www.velib-metropole.fr/offers#subscription) pour pas avoir à gérer les pneux crevés et compagnie)  
-- faire 15 min de yoga par jour (application [DownDog Yoga](https://www.downdogapp.com/), gratuite pour les étudiants). Le yoga a aussi l'avantage d'être antistress   
-En réalité, l'externat est très fatiguant, notamment pendant la D3, et j'ai eu du mal à maintenir le vélo après l'arrêt des stages quand je révisais chez moi toute la journée. J'ai cependant essayé de maintenir le yoga.
+- faire tous mes trajets en vélo (abonnement [Vélib étudiant](https://www.velib-metropole.fr/offers#subscription) pour ne pas avoir à gérer les pneux crevés et compagnie)  
+- 15 min de yoga par jour (application [DownDog Yoga](https://www.downdogapp.com/), gratuite pour les étudiants). Le yoga a aussi l'avantage d'être antistress   
+
+En réalité, l'externat est très fatiguant, notamment pendant la D3, et j'ai eu du mal à maintenir le vélo après l'arrêt des stages, quand je révisais chez moi toute la journée. J'ai cependant essayé de maintenir le yoga.
 
 Pendant la D4, j'ai investi dans un [Fitbit](https://www.fitbit.com/global/fr/products/trackers/inspire3) afin de m'encourager à avoir une activité physique régulière. Je m'étais en effet rendu compte que je pouvais passer des journées entières entre mon lit et mon bureau, et ça ne me plaisait pas. J'ai réglé les objectifs sur les recommandations OMS d'activité physique. J'ai aussi utilisé le suivi du sommeil que je trouve très intéressant.
 
@@ -55,7 +78,8 @@ J'ai mis à la suite quelques choses qui m'ont été utiles à cet effet.
 - Routine comportant des moments sympas (ex : faire mes courses au marché tous les samedis matin)
 - Abonnement [UGC illimité](https://www.ugc.fr/les-offres-ugc-illimite.html). J'ai toujours aimé le cinéma, et en D3 j'allais 1 à 2 fois par semaine au cinéma pour me changer les idées.
 - !!! [Journal intime](https://www.hema.com/fr-fr/papeterie/cahiers-carnets/carnets/carnet-ligne-a5-14122262.html?gad_source=1&gclid=Cj0KCQjwsuSzBhCLARIsAIcdLm7IdxCUv79VFBb87YGQrTn1m2rC1y2luCc_ep5yB5qj0PgNk20qEnUaAr4rEALw_wcB&gclsrc=aw.ds) !!! : c'est juste un journal random dans lequel j'écrivais chaque jour un résumé de ma journée. Ca permettait de mieux digérer la journée avant de dormir et de mettre à distance les évènements bons ou mauvais. Je n'ai jamais aussi bien dormi qu'après ma petite rédaction quotidienne dans le journal. J'y mettais toutes les émotions fortes que j'avais vécus (surtout négatives) et par là je les piégeais dans le papier, puis je fermais le journal et je dormais de mon meilleur sommeil. Dans l'optique de lutter contre le cynisme et la dépression, je terminais chaque entrée par 3 points positifs de la journée. **C'est de loin la méthode qui a eu le plus fort impact positif sur mon moral pendant l'externat**. 
-- [Life planner](https://www.amazon.fr/dp/B07MW7B6V6?ref=nb_sb_ss_w_as-reorder_k0_1_14&amp=&crid=1QSUDJN25HTKU&amp=&sprefix=legend+planner), c'est une sorte de journal à l'américaine pour aider à s'organiser. Je l'utilisais pour noter mes objectifs de travail et mes loisirs afin de garder une trace de ce que je faisais. Permet d'éviter la déprime liée au fait qu'on a l'impression de ne plus avoir de vie du tout en dehors de la médecine.
+- [Life planner](https://www.amazon.fr/dp/B07MW7B6V6?ref=nb_sb_ss_w_as-reorder_k0_1_14&amp=&crid=1QSUDJN25HTKU&amp=&sprefix=legend+planner), c'est une sorte de journal à l'américaine pour aider à s'organiser. Je l'utilisais pour noter mes objectifs de travail et mes loisirs afin de garder une trace de ce que je faisais. Permet d'éviter la déprime liée au fait qu'on a l'impression de ne plus avoir de vie du tout en dehors de la médecine
+- **Les co-externes +++** : l'externat est beaucoup plus facile et agréable quand on s'entraide. J'ai fait un effort conscient pour éviter de devenir le genre de vieil externe aigri qui ne parle qu'à son mini groupe de potes et qui considère tout le reste comme des adversaires. On est tous en galère, et on se bat pas les uns contre les autres mais tous contre le sujet.
 
 ### Faire des pauses
 
@@ -91,6 +115,7 @@ Personnellement, je pense qu'il faut savoir se reposer pour revenir plus efficac
 Pour faire face à la difficulté particulièrement intense de l'externat, j'ai été soutenu à une toute une série de professionnels, qui ont été assez sympas pour adapter leur prix à mes revenus d'externe.
 
 - une bonne psychologue, spécialisée en en souffrance au travail : Marie Pezé à Levallois. Je la voyais une fois par mois pour cracher sur l'hôpital, le concours, tout ça. Elle m'a surtout aidé à prendre du recul par rapport aux concours et au milieu hospitalier en général. Je suis passé de "je vois ma vie à l'hôpital, hors l'hôpital est en souffrance, donc je souffre" à une vision plus mature.
+- un bon psychiatre, le Dr Philipe Bouhours. J'ai été le voir pour la première fois en juin juste avant les EDN parce que j'hésitais à prendre des ISRS pour contrôler mon anxiété et rester productif, et au final c'est plus devenu un psychothéraopie bis. Il m'a beaucoup aidé, notamment parce qu'en tant que médecin il sait ce qu'on vit.  
 - un bon cadre nutritionnel pour être le plus efficace possible, Isabelle Flaujac à Gare de l'Est. Pas besoin de beaucoup de séances, c'est juste pour se mettre en jambe.   
 - pour l'équilibre psychique général, j'avais une masseuse ayurvédique. C'est 0% prouvé scientifiquement et j'étais super dubitatif au début, mais ça fonctionnait donc je la voyais 1 fois / 6 semaines. Isabelle Hédouin à Bastille et dans le 8ème (06 75 42 13 80).
 
@@ -171,10 +196,11 @@ MAIS 0 tolérance pour l’à peu près
 Les distracteurs d’une question sur une maladie sont souvent vrais pour une autre maladie (ex: signe d’hypocortisolémie dans une question sur l’hypothyroïdie)    
 --> **on peut bien répondre à partir du moment pù on connaît très bien une des deux listes**, jackpot si on connaît les deux
 
-Quelques réflexions sur la docimologie des épreuves écrites [ici](https://docs.google.com/document/d/1oLESQPC8hZ1UP2xCNMusibUJjiNyd1u_mkBlG_bUJhM/edit?usp=sharing).
-
-
 # EDN
+
+## Quelques réflexions sur la docimologie des épreuves
+
+Réflexions [ici](https://docs.google.com/document/d/1oLESQPC8hZ1UP2xCNMusibUJjiNyd1u_mkBlG_bUJhM/edit?usp=sharing).
 
 ## Avant la D3 
 
@@ -324,29 +350,34 @@ Supports utilisés que je recommande :
 
 # FAQ
 
-***Compléments alimentaires ?***   
-Magnésium et azinc vitalité  + sur le dernier mois mélatonine le soir (attention ca a explosé mon rythme de sommeil après le concours)
+***Compléments alimentaires ?***   Magnésium et azinc vitalité  
++ sur le dernier mois mélatonine le soir .   
++ Mélatonine attention ca a explosé mon rythme de sommeil après le concours.
 
-***Stage planque ou pas planque ?***   
-Déjà 0 honte à se planquer.  C'est le jeu du concours.  
+
+
+***Stage planque ou pas planque ?***  
+Déjà 0 honte à se planquer.  C'est le jeu du concours.
 Mon avis : si vous avez un super stage prenez-le. Sinon, et si vous voulez vous planquer, planquez-vous.  
 Personnellement je me suis planqué sur le dernier stage de la D3 et je ne l'ai pas regretté.  
 
-***Ce que je regrette d'avoir fait trop tôt ?***    
+
+
+***Ce que je regrette d'avoir fait trop tôt ?***  
 Rien
 
-***Entraînements : à partir de quand, comment ?***   
+***Entraînements : à partir de quand, comment ?***  
 Je conseille de commencer le plus tôt possible. Personnellement je faisais 1 masterclass d'ecni par jour + 2 confs Khalifa par semaine.
 
 
-***Ce que je regrette d'avoir fait trop tard***  
+***Ce que je regrette d'avoir fait trop tard***
 Faire des entraînements, notamment des annales. Commencez le plus tôt possible.
 
-***Ce que je regrette de pas avoir fait tout court***   
+***Ce que je regrette de pas avoir fait tout court***  
 Rien, j'ai toujours fait du mieux que je pouvais donc j'aurais pas pu faire autrement
 
 
-***Ce que je regrette d'avoir fait tout court***   
+***Ce que je regrette d'avoir fait tout court***  
 Rien, même les trucs inutiles / perte de temps m'ont permis d'apprendre quelque chose et d'avant
 
 
