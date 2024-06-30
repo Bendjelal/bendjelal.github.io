@@ -171,11 +171,10 @@ MAIS 0 tolérance pour l’à peu près
 Les distracteurs d’une question sur une maladie sont souvent vrais pour une autre maladie (ex: signe d’hypocortisolémie dans une question sur l’hypothyroïdie)    
 --> **on peut bien répondre à partir du moment pù on connaît très bien une des deux listes**, jackpot si on connaît les deux
 
+Quelques réflexions sur la docimologie des épreuves écrites [ici](https://docs.google.com/document/d/1oLESQPC8hZ1UP2xCNMusibUJjiNyd1u_mkBlG_bUJhM/edit?usp=sharing).
+
+
 # EDN
-
-## Quelques réflexions sur la docimologie des épreuves
-
-Réflexions [ici](https://docs.google.com/document/d/1oLESQPC8hZ1UP2xCNMusibUJjiNyd1u_mkBlG_bUJhM/edit?usp=sharing).
 
 ## Avant la D3 
 
@@ -325,34 +324,29 @@ Supports utilisés que je recommande :
 
 # FAQ
 
-***Compléments alimentaires ?***   Magnésium et azinc vitalité  
-+ sur le dernier mois mélatonine le soir .   
-+ Mélatonine attention ca a explosé mon rythme de sommeil après le concours.
+***Compléments alimentaires ?***   
+Magnésium et azinc vitalité  + sur le dernier mois mélatonine le soir (attention ca a explosé mon rythme de sommeil après le concours)
 
-
-
-***Stage planque ou pas planque ?***  
-Déjà 0 honte à se planquer.  C'est le jeu du concours.
+***Stage planque ou pas planque ?***   
+Déjà 0 honte à se planquer.  C'est le jeu du concours.  
 Mon avis : si vous avez un super stage prenez-le. Sinon, et si vous voulez vous planquer, planquez-vous.  
 Personnellement je me suis planqué sur le dernier stage de la D3 et je ne l'ai pas regretté.  
 
-
-
-***Ce que je regrette d'avoir fait trop tôt ?***  
+***Ce que je regrette d'avoir fait trop tôt ?***    
 Rien
 
-***Entraînements : à partir de quand, comment ?***  
+***Entraînements : à partir de quand, comment ?***   
 Je conseille de commencer le plus tôt possible. Personnellement je faisais 1 masterclass d'ecni par jour + 2 confs Khalifa par semaine.
 
 
-***Ce que je regrette d'avoir fait trop tard***
+***Ce que je regrette d'avoir fait trop tard***  
 Faire des entraînements, notamment des annales. Commencez le plus tôt possible.
 
-***Ce que je regrette de pas avoir fait tout court***  
+***Ce que je regrette de pas avoir fait tout court***   
 Rien, j'ai toujours fait du mieux que je pouvais donc j'aurais pas pu faire autrement
 
 
-***Ce que je regrette d'avoir fait tout court***  
+***Ce que je regrette d'avoir fait tout court***   
 Rien, même les trucs inutiles / perte de temps m'ont permis d'apprendre quelque chose et d'avant
 
 
