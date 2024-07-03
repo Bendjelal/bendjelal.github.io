@@ -4,8 +4,6 @@ layout: page
 permalink: /associatif/
 ---
 
-En cours de construction.  
-
 # Association Nationale des Etudiants en Double Cursus
 
 Au cours de ma césure, j'ai rédigé le [premier guide(https://drive.google.com/file/d/1U3fzQ03PvhDrn1-r40eI_vbGHE_kWImZ/view) à destination des étudiants souhaitant intégrer les études de médecine par une passerelle.
