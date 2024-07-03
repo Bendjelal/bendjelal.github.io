@@ -6,11 +6,9 @@
   url: /publications/
 - title: Enseignement
   url: /enseignement/
+- title: Asso
+  url: /associatif/
 - title: Peinture
   url: /peinture/
-#- title: Recette
- # url: /recipes/
-#- title: A propos
-#  url: /apropos/
 - title: Rechercher
   url: /search/
