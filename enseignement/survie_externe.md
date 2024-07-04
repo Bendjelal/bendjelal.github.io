@@ -338,7 +338,7 @@ Honnêtement, j'ai contre-performé aux EDN et je suis arrivé classé entre 170
 
 Période très difficile, j'avais la flemme de travailler, et j'étais épuisé par l'EDN.   
 Pendant le mois de décembre, j'ai essayé de faire des fiches de situations de départ. Je m'étais associé à 2 potes pour aller plus vite.  
-En pratique, j'ai passé mon temps à peindre et regarder des séries en dehors des temps de stage. Les fiches que nous avons faites sont [ici](https://drive.google.com/drive/folders/1pTk4fI8cv0QyXZU89sb1RTDLp3Ad9NGA?usp=drive_link).   
+En pratique, j'ai passé mon temps à peindre et regarder des séries en dehors des temps de stage. Les fiches que nous avons faites sont [ici](https://drive.google.com/drive/folders/1pTk4fI8cv0QyXZU89sb1RTDLp3Ad9NGA?usp=drive_link). Je vous conseille d'ailleurs le [MikBook](https://www.vg-librairies.fr/ecn-edn-r2c/7392-mikbook.html) pour avoir plus de situations de départ (nous les avons utilisées mais je les ai retirées du drive pour des raisons de droit d'auteur).   
 J'ai eu beaucoup de mal à préparer les ECOS, que je trouvais (et trouve toujours) inadaptés au classement des étudiants, et que je considère comme la porte ouverte à un retour à la discrimination au concours de l'internat.    
 A partir du mois de mars, j'ai essayé de me remettre au travail en reprenant les conférences Khalifa (1 ou deux par semaine). J'ai aussi prévu des créneau d'entraînements aux ECOS avec des potes pour me forcer à travailler un peu. Cependant, le fiasco des ECOS blancs m'a redémotivé pour le reste du mois.   
 A partir du mois d'avril, j'ai retrouvé un peu de foi, et j'ai fait quelques ankis et quelques entraînements par moi-même.  
