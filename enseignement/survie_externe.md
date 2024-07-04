@@ -36,6 +36,11 @@ Enfin, dites-vous que le bon côté d'un mauvais stage est qu'il vous donne un e
 
 Quoi qu'il en soit, mon atout majeur pour bien vivre les stages était mes co-externes. Au bout d'un moment, on a finit par devenir potes, et c'est beaucoup mieux de faire un stage dans ces conditions.
 
+**Stages rentables pour le concours (indépendamment de tout intérêt personnel) :  **
+Déjà les stages en spécialité transversale : Médecine Générale, Urgences, Gériatrie, Médecine Interne, etc.   
+Ensuite les spécialités à terrain particulier : Psychiatrie, Gynécologie, Pédiatrie, Gériatrie encore.  
+Il y en a sûrement d'autres mais je n'y suis pas passé.
+
 ## Mode de travail
 
 BU ou chez moi de préférence.  
@@ -91,7 +96,7 @@ Déjà, je ne travaillais pas le samedi et le dimanche matin pour dormir, faire 
 
 Je faisais une ou deux sorties par semaines, soit pour aller au cinéma soit pour voir des amis.  
 
-Pour ce qui est de la journée de travail, j'arrêtais systématiquement de travailler à 19h. Je me levais à 6h le matin pour travailler avant d'aller en stage pour compenser, mais l'idée d'arrêter de travailler à 19h me faisais particulièrement plaisir.  
+Pour ce qui est de la journée de travail, j'arrêtais systématiquement de travailler à 19h. Je me levais à 6h le matin pour travailler avant d'aller en e pour compenser, mais l'idée d'arrêter de travailler à 19h me faisais particulièrement plaisir.  
 
 Dans le travail, je faisais la méthode pomodoro avec l'application [Tide](https://tide.fm/en_US/) (gratuite) : 25 min de travail, 5 min de pause, 25 min de travail, 15 min de pause. Je faisais une pause plus longue (30 min à 1 heure) en milieu de demi-journée, afin de prendre un en-cas, de marcher un peu et de me reposer.  
 
@@ -100,7 +105,7 @@ Dans le travail, je faisais la méthode pomodoro avec l'application [Tide](https
 - Se souvenir du but, chaque détail qu'on apprend nous en rapproche
 - Fond d'écran tournant avec des citations motivantes
 - Ne pas se prendre la tête pour rien
-	- en stage / à la fac
+	- en e / à la fac
 	- dans ses relations personnelles
 - S’entourer des bonnes personnes
 	- en médecine, qui vous comprennent et vous tirent vers le haut
