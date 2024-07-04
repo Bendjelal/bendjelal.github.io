@@ -207,6 +207,8 @@ Réflexions [ici](https://docs.google.com/document/d/1oLESQPC8hZ1UP2xCNMusibUJji
 
 Réflexion à chaque semestre pour essayer d'être le plus efficace possible : [ici](https://docs.google.com/document/d/1NYyyukhiOhCktitT7ESzJoch9Pm9VZQSlkRqlOc_z2M/edit?usp=sharing) et [là](https://docs.google.com/spreadsheets/d/1_pRhwFe5iTQ3uFp33PKMGrydnMaACYG3hByK6M12Dy0/edit?usp=sharing).
 
+Pendant la P2 et la D1, j'ai fait beaucoup de fiches par appareil qui me permettaient d'illustrer différentes notions qui me paraissaient floues. Le regroupement des notions par appareil plutôt que par matière permettait de mieux mettre en relation les notions. Vous pouvez retrouver ces fiches [ici](https://drive.google.com/drive/folders/1siqbs0nvdIGudNMv99cc_8r36XHHO7bl?usp=drive_link).
+
 ## Pendant la D3
 
 ### Horaires de travail
