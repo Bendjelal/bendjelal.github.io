@@ -1,7 +1,7 @@
 ---
-title: Peinture
+title: Autres
 layout: posts
-permalink: /peinture/
+permalink: /autres/
 ---
 
 Des choses et d'autres
