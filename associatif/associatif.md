@@ -27,5 +27,5 @@ Au cours de ma césure, j'ai rédigé le [premier guide](https://drive.google.co
 Au cours de ma deuxième année de médecine, j'ai participé au Tutorat de Sorbonne Université à destination des étudiant en première année.
 - J'ai dirigé la rédaction du [Tut'Physique](https://drive.google.com/file/d/17VgBKymZdykhiSQzvBQEDLcgaoNamVCW/view).
 - J'ai dirigé la rédaction du [Tut'Biologie du Développement](https://drive.google.com/file/d/17H-H5dqWLdVZrgsdDLH7bNZzYC9anwsS/view?usp=sharing).
-- J'ai eté co-responsable du Tutorat de Biophysique, en collaboration avec Joelle Khoury.
+- J'ai co-dirigé le Tutorat de Biophysique, en collaboration avec Joelle Khoury.
 - J'ai co-créé la chaîne Youtube [La Minute TUTO](https://www.youtube.com/channel/UC8BFOYNgIknHpJqX9gJTpVQ) avec Audrey Borie.
