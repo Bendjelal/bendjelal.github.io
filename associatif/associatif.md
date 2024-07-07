@@ -4,7 +4,13 @@ layout: page
 permalink: /associatif/
 ---
 
-# Association Nationale des Etudiants en Double Cursus
+# Collectif Interfacultaire Représentant les Externes en Médecine (CIREM)
+
+J'ai participé à la création, et assumé le rôle de premier Président de l'association entre 2024 et 2025.
+
+# Association Nationale des Etudiants en Double Cursus (ANDCS)
+
+En 2024, j'ai été élu VP Informatique pour 1 an.
 
 Au cours de ma césure, j'ai rédigé le [premier guide](https://drive.google.com/file/d/1U3fzQ03PvhDrn1-r40eI_vbGHE_kWImZ/view) à destination des étudiants souhaitant intégrer les études de médecine par une passerelle.
 
