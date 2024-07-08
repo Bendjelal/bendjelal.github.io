@@ -24,30 +24,11 @@ layout: page
 4. [ECOS](#ecos)
 5. [FAQ](#faq)
 
-Général <a name="general"></a>
-
 # Général 
 <a name="general"></a>
 
 ## Mon profil
 <a name="profil"></a>
-
-1. [Général](#general)
-    1. [Mon profil](#profil)
-    2. [Stages](#stages)
-    3. [Mode de travail](#travail)
-    4. [Bien-être](#bien_etre)
-    5. [Conseils en vrac](#conseils_vrac)
-3. [EDN](#edn)
-    1. [Quelques réflexions sur la docimologie des épreuves](#docimologie)
-    2. [Avant la D3](#avant)
-    3. [Pendant la D3](#pendant)
-    4. [Pendant l'EDN](#EDN)
-    5. [Ressources utiles](#ressources)
-4. [ECOS](#ecos)
-5. [FAQ](#faq)
-
-Général <a name="general"></a>
 
 - comprendre > apprendre
 - déteste le par coeur
@@ -244,18 +225,22 @@ Les distracteurs d’une question sur une maladie sont souvent vrais pour une au
 --> **on peut bien répondre à partir du moment pù on connaît très bien une des deux listes**, jackpot si on connaît les deux
 
 # EDN
+<a name="EDN"></a>
 
 ## Quelques réflexions sur la docimologie des épreuves
+<a name="docimologie"></a>
 
 Réflexions [ici](https://docs.google.com/document/d/1oLESQPC8hZ1UP2xCNMusibUJjiNyd1u_mkBlG_bUJhM/edit?usp=sharing).
 
 ## Avant la D3 
+<a name="avant"></a>
 
 Réflexion à chaque semestre pour essayer d'être le plus efficace possible : [ici](https://docs.google.com/document/d/1NYyyukhiOhCktitT7ESzJoch9Pm9VZQSlkRqlOc_z2M/edit?usp=sharing) et [là](https://docs.google.com/spreadsheets/d/1_pRhwFe5iTQ3uFp33PKMGrydnMaACYG3hByK6M12Dy0/edit?usp=sharing).
 
 Pendant la P2 et la D1, j'ai fait beaucoup de fiches par appareil qui me permettaient d'illustrer différentes notions qui me paraissaient floues. Le regroupement des notions par appareil plutôt que par matière permettait de mieux mettre en relation les notions. Vous pouvez retrouver ces fiches [ici](https://drive.google.com/drive/folders/1siqbs0nvdIGudNMv99cc_8r36XHHO7bl?usp=drive_link).
 
 ## Pendant la D3
+<a name="pendant"></a>
 
 ### Horaires de travail
 
@@ -369,18 +354,21 @@ Pas de travail le week end d’avant, arrêt du travail le vendredi à 19h
 Plus d'infos [ici](https://docs.google.com/document/d/1UA8HaQRb0-RfJ4GwXPokzoW0zRrrySnYU8JFDgiwotg/edit?mode=html).
 
 ## Pendant l'EDN
+<a name="EDN"></a>
 
 Check-liste et organisation pendant les épreuves : [ici](https://docs.google.com/document/d/10PRNOLw-TlrV63UsMMoDmiebyOxasE0t0K8iIXokREI/edit?usp=sharing).
 
 Honnêtement, j'ai contre-performé aux EDN et je suis arrivé classé entre 1700 et 2100 alors que je ne pensais pas dépasser 500. Ne prenez donc pas mes conseils pour argents comptant.
 
 ## Ressources utiles
+<a name="ressources"></a>
 
 * Vidéo de Théo Chaurang : [Réussir l’ECN/EDN sans bosser : mythe ou réalité ?](https://www.youtube.com/watch?v=K4mWp6lDya4)  
 * [Chaîne Youtube de Dr Astuce](https://www.youtube.com/@DrAstuce)
 * [Site Urofrance](https://www.urofrance.org/patient/pathologies-urologiques/)
 
 # ECOS
+<a name="ecos"></a>
 
 Période très difficile, j'avais la flemme de travailler, et j'étais épuisé par l'EDN.   
 Pendant le mois de décembre, j'ai essayé de faire des fiches de situations de départ. Je m'étais associé à 2 potes pour aller plus vite.  
@@ -398,6 +386,7 @@ Supports utilisés que je recommande :
 - [Khalifa](https://www.confkhalifa.com/) (500 euros l'année)
 
 # FAQ
+<a name="faq"></a>
 
 ***Compléments alimentaires ?***   Magnésium et azinc vitalité  
 + sur le dernier mois mélatonine le soir .   
@@ -409,8 +398,6 @@ Supports utilisés que je recommande :
 Déjà 0 honte à se planquer.  C'est le jeu du concours.
 Mon avis : si vous avez un super stage prenez-le. Sinon, et si vous voulez vous planquer, planquez-vous.  
 Personnellement je me suis planqué sur le dernier stage de la D3 et je ne l'ai pas regretté.  
-
-
 
 ***Ce que je regrette d'avoir fait trop tôt ?***  
 Rien
@@ -424,7 +411,6 @@ Faire des entraînements, notamment des annales. Commencez le plus tôt possible
 
 ***Ce que je regrette de pas avoir fait tout court***  
 Rien, j'ai toujours fait du mieux que je pouvais donc j'aurais pas pu faire autrement
-
 
 ***Ce que je regrette d'avoir fait tout court***  
 Rien, même les trucs inutiles / perte de temps m'ont permis d'apprendre quelque chose et d'avant
