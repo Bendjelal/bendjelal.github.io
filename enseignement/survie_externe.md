@@ -26,7 +26,8 @@ layout: page
 
 Général <a name="general"></a>
 
-# Général <a name="general"></a>
+# Général 
+<a name="general"></a>
 
 ## Mon profil
 <a name="profil"></a>
