@@ -8,9 +8,45 @@ layout: page
 > Ces vues reflètent mon état d'esprit **au moment de la rédaction**. Si vous avez un problème avec certaines des vues exposées, adressez-vous au Yanis de cette période.  
 > J'ai essayé d'être le plus exhaustif possible dans l'utilisation des supports, j'ai donc mis plusieurs liens commerciaux. Cependant je n'ai aucun partenariat avec ces acteurs et je vous encourage à bien réfléchir avant d'acheter une chose ou l'autre.
 
-# Général
+# Table des matières
+1. [Général](#general)
+    1. [Mon profil](#profil)
+    2. [Stages](#stages)
+    3. [Mode de travail](#travail)
+    4. [Bien-être](#bien_etre)
+    5. [Conseils en vrac](#conseils_vrac)
+3. [EDN](#edn)
+    1. [Quelques réflexions sur la docimologie des épreuves](#docimologie)
+    2. [Avant la D3](#avant)
+    3. [Pendant la D3](#pendant)
+    4. [Pendant l'EDN](#EDN)
+    5. [Ressources utiles](#ressources)
+4. [ECOS](#ecos)
+5. [FAQ](#faq)
+
+Général <a name="general"></a>
+
+# Général <a name="general"></a>
 
 ## Mon profil
+<a name="profil"></a>
+
+1. [Général](#general)
+    1. [Mon profil](#profil)
+    2. [Stages](#stages)
+    3. [Mode de travail](#travail)
+    4. [Bien-être](#bien_etre)
+    5. [Conseils en vrac](#conseils_vrac)
+3. [EDN](#edn)
+    1. [Quelques réflexions sur la docimologie des épreuves](#docimologie)
+    2. [Avant la D3](#avant)
+    3. [Pendant la D3](#pendant)
+    4. [Pendant l'EDN](#EDN)
+    5. [Ressources utiles](#ressources)
+4. [ECOS](#ecos)
+5. [FAQ](#faq)
+
+Général <a name="general"></a>
 
 - comprendre > apprendre
 - déteste le par coeur
@@ -21,6 +57,7 @@ layout: page
 - parents paient la chambre étudiante
 
 ## Stages
+<a name="stages"></a>
 
 On a tous constaté que les stages sont très inégaux. Certains stages sont incroyables et nous donnent envie de faire la spécialité. D'autres stages sont nuls, on n'y apprends rien ou très peu, et l'ambiance est mauvaise voire malsaine. On peut même s'y faire harceler, j'en ai fait l'expérience.    
 
@@ -42,12 +79,14 @@ Ensuite les spécialités à terrain particulier : Psychiatrie, Gynécologie, P�
 Il y en a sûrement d'autres mais je n'y suis pas passé.
 
 ## Mode de travail
+<a name="travail"></a>
 
 BU ou chez moi de préférence.  
 Fan de anki +++.  
 Travail sur les fiches lisa.
 
 ## Bien-être
+<a name="bien_etre"></a>
 
 ### Croire en soi
 
@@ -128,6 +167,7 @@ Pour faire face à la difficulté particulièrement intense de l'externat, j'ai 
 Of course, on ajoute à ça le soutien de mes potes (externes ou non), et de mes parents (notamment financier !).
 
 ## Conseils en vrac
+<a name="conseils_vrac"></a>
 
 ### La base
 
@@ -237,7 +277,7 @@ Pour les entraînements : j'ai saigné les masterclass ECNi.fr et les conférenc
 
 NB : je n'aimais pas travailler avec les collèges. J'ai acheté un seul collège (ORL parce que je voulais faire ORL) et j'ai regretté.
 
-## Organisation en phases
+### Organisation en phases
 
 Noter que j'étais à Sorbonne Université, donc nos révisions commençaient en mars et non en juillet.
 
