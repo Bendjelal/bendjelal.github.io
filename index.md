@@ -11,11 +11,13 @@ order: 1
         .circular-photo {
             width: 300px; /* Ajustez la taille selon vos préférences */
             height: 300px; /* Ajustez la taille selon vos préférences */
-            border-radius: 50%;
+            border-radius: 100%;
             overflow: hidden;
             display: block;
             margin-left: auto;
             margin-right: auto;
+            margin-top: auto;
+            margin-bottom: auto;
         }
     </style>
 </head>
