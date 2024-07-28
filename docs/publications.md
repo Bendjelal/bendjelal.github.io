@@ -1,7 +1,7 @@
 ---
-title: Publications
+title: Recherche
 layout: page
-permalink: /publications/
+permalink: /recherche/
 ---
 
 * En cours de publication 
