@@ -1,8 +1,8 @@
 ---
-title: Gallerie
+title: Galerie
 layout: collection
-permalink: /gallerie/
-collection: gallerie
+permalink: /galerie/
+collection: galerie
 entries_layout: grid
 ---
 
