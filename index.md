@@ -8,8 +8,8 @@ order: 1
     <meta name="photo" content="width=device-width, initial-scale=1.0">
     <style>
         .circular-photo {
-            width: 200px; /* Ajustez la taille selon vos préférences */
-            height: 200px; /* Ajustez la taille selon vos préférences */
+            width: 250px; /* Ajustez la taille selon vos préférences */
+            height: 250px; /* Ajustez la taille selon vos préférences */
             border-radius: 100%;
             overflow: hidden;
             display: block;
