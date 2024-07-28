@@ -20,6 +20,12 @@ order: 1
     </style>
 </head>
 
+ <div class="container">
+        <h1>Bienvenue sur mon site personnel</h1>
+        <img src="photo.png" alt="Photo de moi" class="circular-photo">
+    </div>
+
+
 Médecin et chercheur, je viens de terminer le second cycle de mes études de Médecine.
 
 En médecine, je m'intéresse à l'allergologie et à la chirurgie ORL.
