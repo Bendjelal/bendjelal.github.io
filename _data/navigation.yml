@@ -1,13 +1,13 @@
 - title: Home
   url: /
-- title: Projets
-  url: /projets/
 - title: Recherche
   url: /recherche/
-- title: Enseignement
-  url: /enseignement/
 - title: Asso
   url: /associatif/
+- title: Enseignement
+  url: /enseignement/
+- title: Galerie
+  url: /galerie/
 - title: Autres
   url: /autres/
 - title: Rechercher
