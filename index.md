@@ -6,7 +6,6 @@ order: 1
 <head>
     <meta charset="UTF-8">
     <meta name="photo" content="width=device-width, initial-scale=1.0">
-    <title>Page d'accueil</title>
     <style>
         .circular-photo {
             width: 300px; /* Ajustez la taille selon vos préférences */
@@ -22,11 +21,7 @@ order: 1
     </style>
 </head>
 
-<body>
-        </div>
-        <img src="photo.png" alt="Photo de moi" class="circular-photo">
-    </div>
-</body>
+<img src="photo.png" alt="Photo de moi" class="circular-photo">
 
 Médecin et chercheur, je viens de terminer le second cycle de mes études de Médecine.
 
