@@ -3,6 +3,23 @@ layout: page
 order: 1
 ---
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Page d'accueil</title>
+    <style>
+        .circular-photo {
+            width: 150px; /* Ajustez la taille selon vos préférences */
+            height: 150px; /* Ajustez la taille selon vos préférences */
+            border-radius: 50%;
+            overflow: hidden;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+    </style>
+</head>
+
 Médecin et chercheur, je viens de terminer le second cycle de mes études de Médecine.
 
 En médecine, je m'intéresse à l'allergologie et à la chirurgie ORL.
