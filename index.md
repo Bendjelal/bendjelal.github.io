@@ -23,17 +23,10 @@ order: 1
 </head>
 
 <body>
-    <div class="container">
-        <div class="header">
         </div>
         <img src="photo.png" alt="Photo de moi" class="circular-photo">
-        <div class="title">
-            <h2>Interne en médecine & Chercheur</h2>
-        </div>
-        <p>Médecin et chercheur, je viens de terminer le second cycle de mes études de Médecine.</p>
     </div>
 </body>
-
 
 Médecin et chercheur, je viens de terminer le second cycle de mes études de Médecine.
 
