@@ -9,8 +9,8 @@ order: 1
     <title>Page d'accueil</title>
     <style>
         .circular-photo {
-            width: 150px; /* Ajustez la taille selon vos préférences */
-            height: 150px; /* Ajustez la taille selon vos préférences */
+            width: 300px; /* Ajustez la taille selon vos préférences */
+            height: 300px; /* Ajustez la taille selon vos préférences */
             border-radius: 50%;
             overflow: hidden;
             display: block;
@@ -21,7 +21,6 @@ order: 1
 </head>
 
  <div class="container">
-        <h1>Bienvenue sur mon site personnel</h1>
         <img src="photo.png" alt="Photo de moi" class="circular-photo">
     </div>
 
