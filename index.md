@@ -374,6 +374,13 @@ Pour une collaboration, vous pouvez me contacter via [Linkedin](https://www.link
             <div class="carousel-item">
                 <iframe src="https://drive.google.com/file/d/1E0-0tLQoG8ywRxCkT9my-07O-wzpfFLD/preview" title="Géométrique 2 (CE 20 x 20).heic"></iframe>
             </div>
+            <div class="carousel-item">
+                <iframe src="https://drive.google.com/file/d/1jfwWYWx21eqiHQIsacpyGp24VWP6ORw-/preview" title="Puddle pour 1 - Colorful (toile 20 x 20).heic"></iframe>
+            </div>
+            <div class="carousel-item">
+                <iframe src="https://drive.google.com/file/d/1_UVtOHtTDLjnFbCFae1dKi6kLpNzbYlu/preview" title="Puddle pour 2 (toile 40 x 40).heic"></iframe>
+            </div>
+
         </div>
         <div class="carousel-controls">
             <button id="prev">❮</button>
@@ -415,6 +422,8 @@ Pour une collaboration, vous pouvez me contacter via [Linkedin](https://www.link
             <button data-slide="32"></button>
             <button data-slide="33"></button>
             <button data-slide="34"></button>
+            <button data-slide="35"></button>
+            <button data-slide="36"></button>
         </div>
     </div>
 
