@@ -6,6 +6,12 @@ collection: galerie
 entries_layout: grid
 ---
 
+<iframe src="https://drive.google.com/file/d/1Zkoowxd10KM7p9QVjdBBFsCnb6zv9PCL/preview" title="Baricade arc-en-ciel.heic" width="300" height="300"></iframe>
+<iframe src="https://drive.google.com/file/d/1GBfhOWgN1oS_JyB0WrnfjyZocRtvcNYx/preview" title="Cardboard pull 11 (toile 40 x 40).heic" width="300" height="300"></iframe>
+<iframe src="https://drive.google.com/file/d/1v-ZQ906S-UfL0ejklFhciv1Ov2Pm2I-G/preview" title="Cardboard pull 2 (CE 20 x 20).heic" width="300" height="300"></iframe>
+<iframe src="https://drive.google.com/file/d/131BjXzLPFu2ioNz3Ys-jzU6BOxZvRFhL/preview" title="Cardboard pull 3 (CE 20 x 20).heic" width="300" height="300"></iframe>
+
+
 <section id="acrylique">
     <h2>Acrylique</h2>
     <div class="gallery">
