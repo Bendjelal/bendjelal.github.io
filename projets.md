@@ -6,16 +6,17 @@ collection: galerie
 entries_layout: grid
 ---
 
-<iframe src="https://drive.google.com/file/d/1Zkoowxd10KM7p9QVjdBBFsCnb6zv9PCL/preview" title="Baricade arc-en-ciel.heic" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/1GBfhOWgN1oS_JyB0WrnfjyZocRtvcNYx/preview" title="Cardboard pull 11 (toile 40 x 40).heic" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/1v-ZQ906S-UfL0ejklFhciv1Ov2Pm2I-G/preview" title="Cardboard pull 2 (CE 20 x 20).heic" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/131BjXzLPFu2ioNz3Ys-jzU6BOxZvRFhL/preview" title="Cardboard pull 3 (CE 20 x 20).heic" width="300" height="300"></iframe>
 
 
+<iframe src="https://drive.google.com/file/d/1jfwWYWx21eqiHQIsacpyGp24VWP6ORw-/preview" title="Puddle pour 1 - Colorful (toile 20 x 20).heic" width="300" height="300"></iframe>
+<iframe src="https://drive.google.com/file/d/1_UVtOHtTDLjnFbCFae1dKi6kLpNzbYlu/preview" title="Puddle pour 2 (toile 40 x 40).heic" width="300" height="300"></iframe>
+
 <section id="acrylique">
     <h2>Acrylique</h2>
     <div class="gallery">
-<iframe src="https://drive.google.com/file/d/1Zkoowxd10KM7p9QVjdBBFsCnb6zv9PCL/preview" title="Baricade arc-en-ciel.heic" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/1GBfhOWgN1oS_JyB0WrnfjyZocRtvcNYx/preview" title="Cardboard pull 11 (toile 40 x 40).heic" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/1v-ZQ906S-UfL0ejklFhciv1Ov2Pm2I-G/preview" title="Cardboard pull 2 (CE 20 x 20).heic" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/131BjXzLPFu2ioNz3Ys-jzU6BOxZvRFhL/preview" title="Cardboard pull 3 (CE 20 x 20).heic" width="300" height="300"></iframe>
@@ -66,16 +67,6 @@ entries_layout: grid
 <iframe src="https://drive.google.com/file/d/1x_raMDAQVuNj7VTfUGD8isExgtUecJmk/preview" title="Ballons 1.jpg" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/19_7oZp30o37o7VqLlC6Ql7ot9DhTILWT/preview" title="Bouquet 6.jpg" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/1-W1W6vYCsmbUsIX5X70uQL6QA1o0RA5T/preview" title="Carrés 2.png" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/1-vCFRQoR9onBp0J2rUp0rjpGYpH9SM41/preview" title="Carte de voeux - Bloom.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/1UuhXpWisJDKODkMApstSJ8zLsx1MQim_/preview" title="Carte de voeux - Bulles.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/1T8EyrWqZZymELqD7psiCiwCzPHOjkMDr/preview" title="Carte de voeux - Décoration abstraite 1.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/1SBew-9IEh1nxWztR56LNKUtTegq_BoAq/preview" title="Carte de voeux - Saint Valentin 1.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/1j9jsn5UQMpgYDWfgH7Dmm2BeMXaHrJc8/preview" title="Carte de voeux - Saint Valentin 2.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/1LUSAACMu5oYw8WmqL_kelDG5asj5XXNF/preview" title="Carte de voeux - Spring.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/1Z08HKcKQsFRK66EIpYopJ1KCrPfYcXwo/preview" title="Carte de voeux - Tulipes.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/1NG4zDro5iegGi1s6CXWUDWaWKfu7tWuU/preview" title="Faire-part 1.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/1ryXCTwY3n2r6T5p8Sw12anP8JKAtyktV/preview" title="Faire-part 2.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/1fHtTT62toOgzjhJJVOxJxTCn05-EoDQZ/preview" title="Faire-part 3.jpg" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/1Vymvrvfr8aacgmRGPzPHeCfWP-VMWupE/preview" title="Cercle 12.jpg" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/1In8KBy_xaFARdmVU5waXk5qORsoxdnqH/preview" title="Ciel étoilé 1 - Makes me dream.jpg" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/1jxbNjmmxGQ3HRt4Po7KX_f7JjgfdzguL/preview" title="Ciel étoilé 11 - It makes me free.jpg" width="300" height="300"></iframe>
@@ -96,52 +87,25 @@ entries_layout: grid
 <iframe src="https://drive.google.com/file/d/1gewe6zdKaMz8lSAf2wGK2OOYEoUtQd0s/preview" title="Fleur 43.jpg" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/1JnycRozm7O5hjPU6U2eFV1S28C-Dt1ib/preview" title="Fleur 49.jpg" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/1Zc-2e6TKcUgbzHEHp7BTTuB19N2pmgka/preview" title="Fleur 51.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/1T7wNWydxVh_8AKWPWRWxjXVPHQpM4mwP/preview" title="Fleur 53.jpg" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/1ohGM0GTizzUGJU6r0FQzRYFk8fYIk7KV/preview" title="Fleur 56.jpg" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/1WCmDVb2mcWxt37mzTYuaB8kqwtu93K2y/preview" title="Fond onirique 1.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/1cvQODCkcvlDlzQDf-_gUR4Ib4qptklLh/preview" title="Fond onirique 10.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/1WqX1g81EM86AG_jdah9VLkYX--tWoPrj/preview" title="Fond onirique 11.jpg" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/1hmNdM6KxCpkung1wlhvORGQwTvAy4190/preview" title="Fond onirique 12 - Lavender Haze.jpg" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/13wttFIF1MLPGIEaGPdMMeOFktQwZxvFD/preview" title="Fond onirique 14.jpg" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/1Q1jA-Cdvl9Ojyk14oMwy2zGhdC6O8FTk/preview" title="Fond onirique 2 - Portail vers l'inconnu.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/1r_k2k1vDgkuX5Ie1qPViEpSvLn21pF3U/preview" title="Fond onirique 21.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/1qM-e2srv-ZFT3xOoCzYbVsTW6cZZthkb/preview" title="Fond onirique 22.jpg" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/1xmR_NrMYTjc451baXR1XhmGmflrhu_i_/preview" title="Fondu 15.jpg" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/1r9gbVl3Z2rrDVKRiwcqzgqeBXhwb8VEt/preview" title="Fondu 2 - Mer, sable et falaise.jpg" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/1Ul9p9S5cbATW7_j1O71cNH7O_u1ixCI1/preview" title="Fondu 3 - Impression soleil levant.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/1L23UnFsaJ9004_FiOVrdDQOgiFCd_Yd-/preview" title="Fondu 5 (réservée Kim).jpg" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/1c1cEZBcPCxf79RFmNtQkC99fSXIboRu1/preview" title="Fondu 6 - Du bleu phtalo à l'ocre jaune.jpg" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/1SRqE1DTaXAM1BVECxdlMgU1BqgsX3Kjo/preview" title="Fondu 7 - Là où naissent les étoiles.pdf" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/1gw9ybK4amFQjLWIi4lqIjJXnX1rykQuD/preview" title="Fruit 1.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/1NrMegRXgDmedh9rYRP-uLSrG_khWlffw/preview" title="Fruit 2.jpg" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/1c5BVEdOvavAWlHUJxjNin6xp67IadleT/preview" title="Galaxie 1.jpg" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/1Nw89tVZs79alXaYeQ9NMxvDFMpaH3xxM/preview" title="Galaxie 10.jpg" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/1MzR-jN2WbejLdYxitfVauJhuU2mKnpZc/preview" title="Galaxie 3 - Lagonalaxie.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/1t5oii842DXDirsl0qX7WSDCwRaFhhkNx/preview" title="Galaxie 7 (cadeau Marielle).jpg" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/1k3oAjjlOoRckvvRp_M9TL_2x2q9Ajmpp/preview" title="Galaxie 9 (Cadeau Mélanie).jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/1Zqowoyx1KHdT7yyzaNGu7n0ah_m6L3ON/preview" title="Gradiant 3 - Fleurs.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/1ONAk0PNWSopSjSnEY3qHLdXlJrR3mvfR/preview" title="Impression céleste 1.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/1wRgV6zzYfNiMm-flCT0C7gOH2JQzsKrV/preview" title="Impression céleste 4.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/12nmjUojXtoiaFcPLc_EQnDRzIm_SkZhj/preview" title="Impression céleste 6.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/10vBiTT7LBAxXk1j0cDarC3qTWd3d61oi/preview" title="Impression céleste 7.png" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/10yvzyTV_zMaJaYbjp01tg3Pv5_jsysXM/preview" title="Impression céleste 8.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/1eeCY8F-ZWM5HYIltpa18TrXMI7DlrMsU/preview" title="Impression céleste 9.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/1AiNNmF1cpDdn-ncKx0q5BhnaK6mIM_OU/preview" title="Jardin métallique 2.heic" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/1w0OFN5Ec7vDNP-yW07NnDyxIzT2_cDc-/preview" title="Jardin métallique 5 - Cailloux.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/1I3ZkIDwP7ZLW1s-3MVEmpyDuyxS1Sf5g/preview" title="Jardin métallique 6.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/1UE-TjL8WX2JXXO1kez12-_owI1asjS3h/preview" title="Jardin naturel 10.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/1PNIHminsjzCUypPDc_HS_WMtc_CQRwXO/preview" title="Jardin naturel 12.jpg" width="300" height="300"></iframe>
+<iframe src="https://drive.google.com/file/d/1Zqowoyx1KHdT7yyzaNGu7n0ah_m6L3ON/preview" title="Gradient 3 - Fleurs.jpg" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/13oRjBPRDjA1N9BqQkAYewEPMY_PsIf9g/preview" title="Jardin naturel 16.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/10vwDYWfkyTrR4zWb8xRFKfG6vOK9dTSR/preview" title="Jardin naturel 17.jpg" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/1JAZXvGX9L8TelnNlYiSvEp07TsnbufMt/preview" title="Jardin naturel 18.jpg" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/1Q716DqA0WAYjbTcWxdBHjAbV5Xl2NlF4/preview" title="Jardin naturel 19.jpg" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/1UjeB6g5Kjp8bn-pny23QLB5I3_hTUrs9/preview" title="Jardin naturel 20.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/1D8VPVd4H7aZdmyd5Jpql-MSCfgFfQFF3/preview" title="Jardin naturel 23.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/1tgH639cgU56_vuTY8jJmd1Szng_9Xe1q/preview" title="Jardin naturel 29.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/1Ub5WwcwQhZ7vBIdHHkoqd7ZREoCKaZ9j/preview" title="Jardin naturel 3.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/18xClLW5CJ8D8i3wdR60M597jtOukbzzg/preview" title="Jardin naturel 30.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/1oVDvlFQfFNozQIzxjZssJ7PVKBAnBdXz/preview" title="Jardin naturel 34.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/1kDmecKVC7xWJYAtFoavq1fCfB7SVJxaB/preview" title="Jardin naturel 39.jpg" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/17mRcyuJAaLEtxt4mx6nWlPhQKNJop6jJ/preview" title="Jardin naturel 8 - Jardin de tulipes 3.jpg" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/1-VFpdxP1uy5VOzrRTRyos2-zynGtDb66/preview" title="Lagon.jpg" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/1a2R2drsKr3dvVULuNkEafduvFUM2_Z3m/preview" title="Lollipop (réservée Shan).jpg" width="300" height="300"></iframe>
@@ -149,49 +113,18 @@ entries_layout: grid
 <iframe src="https://drive.google.com/file/d/169e_Udgv4ATpPEmhLpzuJG6NBR5n0uz7/preview" title="Montagne 7.jpg" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/16wNVMt9gE_BaxZk5jkezCfr3EPXnRnpx/preview" title="Montagne 8.jpg" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/1cbPpXqusjdFSsL-anW9VMz1l8QU0htfB/preview" title="Montagne 9.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/1UaFVqjFMDPqRNqWc7hR3glV160UXzAol/preview" title="Motif 1.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/15O3kWjAgc9Trv_S2Xh2dKW5VOM95cJTg/preview" title="Motif 10.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/18VYn5mpNe06pnT_zu27bEG7OE98lGWXD/preview" title="Motif 11.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/190Jt_L0EPVn85R4R12taZ0Y6_YjssovN/preview" title="Motif 12.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/1FBVtQsLJzMWJzYsndbcp6nuEY8vomQGt/preview" title="Motif 14.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/17zmXI4jQq9T7kutljVhKsOQDNK6ljzLy/preview" title="Motif 2.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/16Mklxumh_ojzE5726PuO9iS-I-yykArM/preview" title="Motif 3.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/1E6i_jM2yEpGrSUjxzJsqLKeV5IvSZbmE/preview" title="Motif 5 - 5 cm par seconde.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/1PLdu6STpHXndAIDJFUhw18Etgx_XzpC6/preview" title="Motif 6 - Abondance de fleur.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/1Ix30qlyZR47IQK05u0htU_N8wt3tMTdh/preview" title="Motif 7.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/13709QnmMA57f3x5NIPv2t7g_X1a2ljjH/preview" title="Motif 8.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/1hAuobVlfmzRVasjdFAzC1aUKaiTe2-qb/preview" title="Motif 9.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/1eLydKT1875alLq-40Rh7HFJCvsdq-ahM/preview" title="Nébuleuse 1.jpg" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/1dctVEcfO4HSNjQmCakscx5Aile6tgGxJ/preview" title="Nébuleuse 12 - Fusion.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/1eLx6jc4rj7Xo8TA1R7R_12P6pv1sAEzJ/preview" title="Nébuleuse 18.jpg" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/1KKPpbET0LZGFh0c76Lho7F2oUDou2iPZ/preview" title="Nébuleuse 2 - Turquoise.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/1qD2zLrVVfjon796JY4ZLSXkpBzxzO-rg/preview" title="Nébuleuse 20.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/17UCraM45rUGDw0aVQ1ZozvdAcs2EHusr/preview" title="Nébuleuse 23.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/12Nzl9rsQ73MEi9r4w9dtp6jskw7BOV1S/preview" title="Nébuleuse 25.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/1FucOfDxJMWDm7mM_StfC7vdZja1cuvqR/preview" title="Nébuleuse 26.jpg" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/1fQrQqPQBzFBAvJXOhuVg7MBSIByBn6Ww/preview" title="Nébuleuse 4.jpg" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/1zQiqZj41gz01YjikocEesDTKKcZwrM21/preview" title="Nébuleuse 7 - Rose.jpg" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/19SWvacR6mIjC3siBWHW9M_RxcR_lJf3L/preview" title="Nébuleuse 8 - Saint-Valentin.jpg" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/1zfjzfB-2uKKvmmBxDfU70T8tN5a2kkYm/preview" title="Nuages.jpg" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/1lr2NNzOa7Z-DLbvjqs1W7Az7Db5Up0_f/preview" title="Parterre de roses 2.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/1BFVNvfJhrvimBGt9Ql1V6Gsvqz59eIyz/preview" title="Parterre de roses 3.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/18KgvqaYt348DtD5YNuIljb709jT-qwsg/preview" title="Paysage simple 4.jpg" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/1y-nFQCOZQkV-QRecrbiR7lgjNAsZXC82/preview" title="Perspective 1.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/1-DQ2NJF-rs7yUgMzcD27BtJLfw98NaSx/preview" title="Perspective 2.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/1jfwWYWx21eqiHQIsacpyGp24VWP6ORw-/preview" title="Puddle pour 1 - Colorful (toile 20 x 20).heic" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/1_UVtOHtTDLjnFbCFae1dKi6kLpNzbYlu/preview" title="Puddle pour 2 (toile 40 x 40).heic" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/1C_hLS8vsnO-As1pfSOzX1y4cYv4ZuEMN/preview" title="Sensation 1 - Parfum floral.jpg" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/1tudC1l7DS_DJ0KZjF2nRZq7oYmzYHkVM/preview" title="Silhouettes 1.heic" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/116-5ZoXac9OgUxFmB0EYIUptxouK6mVo/preview" title="Silhouettes 10.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/1T3kugjYM1cqdU2VoF6pz7EmN6_R9Htbd/preview" title="Silhouettes 3 - mission Cléopatre.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/1lOhHjM3WgMLw6RhweuLlf5TwlQVn4-YV/preview" title="Silhouettes 6.jpg" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/1dBNbB1CaRyBFhtnkvM-4mYwKcbyrkT-Z/preview" title="Silhouettes 7.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/1YxDope2_qtM20Y2WG26e6bJmnm8XpN8J/preview" title="Silhouettes 8.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/1AlLlx3Kvh2-WKLPdycjhpqFv9f6Ii2v7/preview" title="Silhouettes 9.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/15N4n--6rLflmH-oFzQPbeUmp1l82R3L6/preview" title="Superposibleue.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/1Iatp_uV7H4O3lhJVsA6TU52pouB-3UMU/preview" title="Texture 1.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/1AH8Du4s3HhGWit9mhZk6EURbwcnHCPBN/preview" title="Texture 6 - Fusion-explosion.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/1BOvisw4qnlTWjTk0Na3ZrVZgc6zClrod/preview" title="Texture.jpg" width="300" height="300"></iframe>
     </div>
 </section>
 
@@ -210,3 +143,32 @@ Crayon aquarellable
 <iframe src="https://drive.google.com/file/d/1OuwpD9loO0796mTrxynLYMfZRK7GkAM7/preview" title="D'après tuto 15 - Paysage provençal au crayon aquarellable (Savoir Dessiner Youtube).jpg" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/1x-HTZokpyeeQS248Xfm7bgYYZ0A0GZhD/preview" title="Gradient 1.jpg" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/1F05a3hE29wF0WNmbFvGRHGyZ2l3nMrXU/preview" title="Gradient 2.jpg" width="300" height="300"></iframe>
+
+
+Motif
+<iframe src="https://drive.google.com/file/d/1UaFVqjFMDPqRNqWc7hR3glV160UXzAol/preview" title="Motif 1.jpg" width="300" height="300"></iframe>
+<iframe src="https://drive.google.com/file/d/15O3kWjAgc9Trv_S2Xh2dKW5VOM95cJTg/preview" title="Motif 10.jpg" width="300" height="300"></iframe>
+<iframe src="https://drive.google.com/file/d/18VYn5mpNe06pnT_zu27bEG7OE98lGWXD/preview" title="Motif 11.jpg" width="300" height="300"></iframe>
+<iframe src="https://drive.google.com/file/d/190Jt_L0EPVn85R4R12taZ0Y6_YjssovN/preview" title="Motif 12.jpg" width="300" height="300"></iframe>
+<iframe src="https://drive.google.com/file/d/1FBVtQsLJzMWJzYsndbcp6nuEY8vomQGt/preview" title="Motif 14.jpg" width="300" height="300"></iframe>
+<iframe src="https://drive.google.com/file/d/17zmXI4jQq9T7kutljVhKsOQDNK6ljzLy/preview" title="Motif 2.jpg" width="300" height="300"></iframe>
+<iframe src="https://drive.google.com/file/d/16Mklxumh_ojzE5726PuO9iS-I-yykArM/preview" title="Motif 3.jpg" width="300" height="300"></iframe>
+<iframe src="https://drive.google.com/file/d/1E6i_jM2yEpGrSUjxzJsqLKeV5IvSZbmE/preview" title="Motif 5 - 5 cm par seconde.jpg" width="300" height="300"></iframe>
+<iframe src="https://drive.google.com/file/d/1PLdu6STpHXndAIDJFUhw18Etgx_XzpC6/preview" title="Motif 6 - Abondance de fleur.jpg" width="300" height="300"></iframe>
+<iframe src="https://drive.google.com/file/d/1Ix30qlyZR47IQK05u0htU_N8wt3tMTdh/preview" title="Motif 7.jpg" width="300" height="300"></iframe>
+<iframe src="https://drive.google.com/file/d/13709QnmMA57f3x5NIPv2t7g_X1a2ljjH/preview" title="Motif 8.jpg" width="300" height="300"></iframe>
+<iframe src="https://drive.google.com/file/d/1hAuobVlfmzRVasjdFAzC1aUKaiTe2-qb/preview" title="Motif 9.jpg" width="300" height="300"></iframe>
+
+Cartes de voeux
+<iframe src="https://drive.google.com/file/d/1-vCFRQoR9onBp0J2rUp0rjpGYpH9SM41/preview" title="Carte de voeux - Bloom.jpg" width="300" height="300"></iframe>
+<iframe src="https://drive.google.com/file/d/1UuhXpWisJDKODkMApstSJ8zLsx1MQim_/preview" title="Carte de voeux - Bulles.jpg" width="300" height="300"></iframe>
+<iframe src="https://drive.google.com/file/d/1T8EyrWqZZymELqD7psiCiwCzPHOjkMDr/preview" title="Carte de voeux - Décoration abstraite 1.jpg" width="300" height="300"></iframe>
+<iframe src="https://drive.google.com/file/d/1SBew-9IEh1nxWztR56LNKUtTegq_BoAq/preview" title="Carte de voeux - Saint Valentin 1.jpg" width="300" height="300"></iframe>
+<iframe src="https://drive.google.com/file/d/1j9jsn5UQMpgYDWfgH7Dmm2BeMXaHrJc8/preview" title="Carte de voeux - Saint Valentin 2.jpg" width="300" height="300"></iframe>
+<iframe src="https://drive.google.com/file/d/1LUSAACMu5oYw8WmqL_kelDG5asj5XXNF/preview" title="Carte de voeux - Spring.jpg" width="300" height="300"></iframe>
+<iframe src="https://drive.google.com/file/d/1Z08HKcKQsFRK66EIpYopJ1KCrPfYcXwo/preview" title="Carte de voeux - Tulipes.jpg" width="300" height="300"></iframe>
+<iframe src="https://drive.google.com/file/d/1NG4zDro5iegGi1s6CXWUDWaWKfu7tWuU/preview" title="Faire-part 1.jpg" width="300" height="300"></iframe>
+<iframe src="https://drive.google.com/file/d/1ryXCTwY3n2r6T5p8Sw12anP8JKAtyktV/preview" title="Faire-part 2.jpg" width="300" height="300"></iframe>
+<iframe src="https://drive.google.com/file/d/1fHtTT62toOgzjhJJVOxJxTCn05-EoDQZ/preview" title="Faire-part 3.jpg" width="300" height="300"></iframe>
+
+
