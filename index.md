@@ -21,7 +21,7 @@ order: 1
     </style>
 </head>
 
-<img src="photo.png" alt="Photo de moi" class="circular-photo">   <br><br><br>
+<img src="photo.png" alt="Photo de moi" class="circular-photo">   <br><br>
 
 Médecin et chercheur, je viens de terminer le second cycle de mes études de Médecine.
 
