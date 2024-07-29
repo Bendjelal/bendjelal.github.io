@@ -138,10 +138,10 @@ Pour une collaboration, vous pouvez me contacter via [Linkedin](https://www.link
     <div class="carousel">
         <div class="carousel-inner">
             <div class="carousel-item">
-                <img src="images/Gradient1.jpg" alt="Gradient 1">
+                <iframe src="https://drive.google.com/file/d/1F05a3hE29wF0WNmbFvGRHGyZ2l3nMrXU/preview" title="Gradient 2.jpg" width="300" height="300"></iframe>
             </div>
             <div class="carousel-item">
-                <img src="images/Gradient2.jpg" alt="Gradient 2">
+                <iframe src="https://drive.google.com/file/d/1F05a3hE29wF0WNmbFvGRHGyZ2l3nMrXU/preview" title="Gradient 2.jpg" width="300" height="300"></iframe>
             </div>
         </div>
         <div class="carousel-controls">
