@@ -275,31 +275,10 @@ entries_layout: grid
         });
     </script>
 </body>
-</html>
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
+<!--
     <div class="gallery">
 <iframe src="https://drive.google.com/file/d/1GBfhOWgN1oS_JyB0WrnfjyZocRtvcNYx/preview" title="Cardboard pull 11 (toile 40 x 40).heic" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/1v-ZQ906S-UfL0ejklFhciv1Ov2Pm2I-G/preview" title="Cardboard pull 2 (CE 20 x 20).heic" width="300" height="300"></iframe>
@@ -337,10 +316,12 @@ entries_layout: grid
 <iframe src="https://drive.google.com/file/d/1_UVtOHtTDLjnFbCFae1dKi6kLpNzbYlu/preview" title="Puddle pour 2 (toile 40 x 40).heic" width="300" height="300"></iframe>
     </div>
 </section>
-
+-->
 
 <section id="aquarelle">
     <h2>Aquarelle</h2>
+
+<!--
     <div class="gallery">
 <iframe src="" title="" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/1-FtJoAzL-0kRd5pPRp_4yQ8DTw_XVEdI/preview" title="Abstrait 1.jpg" width="300" height="300"></iframe>
@@ -415,16 +396,16 @@ entries_layout: grid
 </section>
 
 
-<section id="encre">
+<!--<section id="encre">
   <h2>Encre de chine</h2>
   <div class="gallery">
 <iframe src="https://drive.google.com/file/d/1tWE4Ej0-P56ruxzzP7ZDH23bY95Xpvq1/preview" title="Encre de Chine 1.jpg" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/101ga7FwRu-ST499ihChvL1PvFh6W1R_M/preview" title="Encre de Chine 2.jpg" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/1wZGoxO97GVYTyvRg9rcOUsu_RNwMubSL/preview" title="Encre de Chine 3.jpg" width="300" height="300"></iframe>
   </div>
-</section>
+</section>-->
 
-Crayon aquarellable
+<!--Crayon aquarellable
 
 <iframe src="https://drive.google.com/file/d/1OuwpD9loO0796mTrxynLYMfZRK7GkAM7/preview" title="D'après tuto 15 - Paysage provençal au crayon aquarellable (Savoir Dessiner Youtube).jpg" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/1x-HTZokpyeeQS248Xfm7bgYYZ0A0GZhD/preview" title="Gradient 1.jpg" width="300" height="300"></iframe>
@@ -455,6 +436,6 @@ Cartes de voeux
 <iframe src="https://drive.google.com/file/d/1Z08HKcKQsFRK66EIpYopJ1KCrPfYcXwo/preview" title="Carte de voeux - Tulipes.jpg" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/1NG4zDro5iegGi1s6CXWUDWaWKfu7tWuU/preview" title="Faire-part 1.jpg" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/1ryXCTwY3n2r6T5p8Sw12anP8JKAtyktV/preview" title="Faire-part 2.jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/1fHtTT62toOgzjhJJVOxJxTCn05-EoDQZ/preview" title="Faire-part 3.jpg" width="300" height="300"></iframe>
+<iframe src="https://drive.google.com/file/d/1fHtTT62toOgzjhJJVOxJxTCn05-EoDQZ/preview" title="Faire-part 3.jpg" width="300" height="300"></iframe> -->
 
 
