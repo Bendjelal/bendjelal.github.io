@@ -31,9 +31,7 @@ entries_layout: grid
 <iframe src="https://drive.google.com/file/d/1LX5HCV4psmm4xxKJYQf-MCDVP6uWEbnN/preview" title="Flower pour 1 (toile 20 x 20).heic" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/1G48JSfgraW_w59fN5rWFYfCg4EXx9W8V/preview" title="Flower pour 3 - Centrifugé (toile 20 x 20).heic" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/1G5gf2yEmV8pG8zWnKBfUBIFxk-yTRmch/preview" title="Flower pour 4 (toile 40 x 40).heic" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/12jnjbM4H9bfAlRv1xNkgR4G4DcjpxH9K/preview" title="Mini toile 1.HEIC" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/1zkXTTEShJ85LoZ8NorPH9_tzJZr_QBaZ/preview" title="Mix arc-en-ciel 1 (toile 20 x 20).heic" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/1EObzPG29a2UDc95HqIX-yrxOKdT2BdbZ/preview" title="Mix arc-en-ciel 21 (CE 21 x 30).heic" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/1Z4_TdhjxeW8v8zJTkuVNlw7lajZPN-8J/preview" title="Mix arc-en-ciel 3 (toile 20 x 20).heic" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/1Vy277BRddI0LgNKlpX2SllqdrHNgc2k_/preview" title="Mix arc-en-ciel 4 (toile 30 x 30).heic" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/1duI87n9ZxEGvqrdX-p1sZox4sH36aDwB/preview" title="Squeegee swipe 1 .heic" width="300" height="300"></iframe>
@@ -41,10 +39,9 @@ entries_layout: grid
 <iframe src="https://drive.google.com/file/d/1T0eCzwR_cnggGhCI1Nyfvzv8lJtTYEhQ/preview" title="Squeegee swipe 3 (toile 40 x 40).heic" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/1qzU4GJUEsXDQA7ZPyKa6WJJX2oC7iFrI/preview" title="Squeegee swipe 4 (toile 40 x 40).heic" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/11Ly-vJiB1BxAiS_l304TeShQR3uB3XFy/preview" title="Straight pour 1 - Ciel nuageux (toile 40 x 40).heic" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/1biIYUkS4XEg0LjfBnrwEoKe-ScZHLgWU/preview" title="Straight pour 3 (CE 20 x 20).heic" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/1yD4m07tOksBH9oTNjlULNQftQziQqHVX/preview" title="Straight pour 4  (CE 20 x 20).heic" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/1-puIp4b8fzAI2uBovZ4szJzxmbPwimXk/preview" title="Straight pour 6 (toile 40 x 40).heic" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/186FZqYGxQQ6VSruiUmnNWGLH5wvbggoi/preview" title="Straight pour 7 (toile 40 x 40).heic" width="300" height="300"></iframe>
+<iframe src="https://drive.google.com/file/d/1E0-0tLQoG8ywRxCkT9my-07O-wzpfFLD/preview" title="Géométrique 2 (CE 20 x 20).heic" width="300" height="300"></iframe>
     </div>
 </section>
 
@@ -142,8 +139,6 @@ entries_layout: grid
 <iframe src="https://drive.google.com/file/d/1MzR-jN2WbejLdYxitfVauJhuU2mKnpZc/preview" title="Galaxie 3 - Lagonalaxie.jpg" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/1t5oii842DXDirsl0qX7WSDCwRaFhhkNx/preview" title="Galaxie 7 (cadeau Marielle).jpg" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/1k3oAjjlOoRckvvRp_M9TL_2x2q9Ajmpp/preview" title="Galaxie 9 (Cadeau Mélanie).jpg" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/1qa5pqBMO3CS3vC03Tu6Hw8_eWJq6py5a/preview" title="Géométrique 1 (CE 20 x 20).heic" width="300" height="300"></iframe>
-<iframe src="https://drive.google.com/file/d/1E0-0tLQoG8ywRxCkT9my-07O-wzpfFLD/preview" title="Géométrique 2 (CE 20 x 20).heic" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/1Zqowoyx1KHdT7yyzaNGu7n0ah_m6L3ON/preview" title="Gradiant 3 - Fleurs.jpg" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/1x-HTZokpyeeQS248Xfm7bgYYZ0A0GZhD/preview" title="Gradient 1.jpg" width="300" height="300"></iframe>
 <iframe src="https://drive.google.com/file/d/1F05a3hE29wF0WNmbFvGRHGyZ2l3nMrXU/preview" title="Gradient 2.jpg" width="300" height="300"></iframe>
