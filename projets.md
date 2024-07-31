@@ -323,78 +323,6 @@ entries_layout: grid
    <div class="carousel">
         <div class="carousel-inner">
 
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Carousel</title>
-    <style>
-        .carousel {
-            position: relative;
-            width: 500px;
-            height: 500px;
-            overflow: hidden;
-            margin: auto;
-        }
-
-        .carousel-inner {
-            display: flex;
-            width: 100%;
-            height: 100%;
-            transition: transform 0.5s ease;
-        }
-
-        .carousel-item {
-            min-width: 100%;
-            height: 100%;
-        }
-
-        .carousel-item iframe {
-            width: 100%;
-            height: 100%;
-        }
-
-        .carousel-controls {
-            position: absolute;
-            top: 50%;
-            width: 100%;
-            display: flex;
-            justify-content: space-between;
-            transform: translateY(-50%);
-        }
-
-        .carousel-controls button {
-            background-color: rgba(0, 0, 0, 0.5);
-            border: none;
-            color: white;
-            padding: 10px;
-            cursor: pointer;
-        }
-
-        .carousel-indicators {
-            position: absolute;
-            bottom: 10px;
-            width: 100%;
-            display: flex;
-            justify-content: center;
-        }
-
-        .carousel-indicators button {
-            background-color: rgba(0, 0, 0, 0.5);
-            border: none;
-            color: white;
-            padding: 5px;
-            cursor: pointer;
-            margin: 0 2px;
-        }
-
-        .carousel-indicators button.active {
-            background-color: white;
-            color: black;
-        }
-    </style>
-</head>
 <body>
     <div class="carousel">
         <div class="carousel-inner">
@@ -833,78 +761,9 @@ Cartes de voeux
 <iframe src="https://drive.google.com/file/d/1fHtTT62toOgzjhJJVOxJxTCn05-EoDQZ/preview" title="Faire-part 3.jpg" width="300" height="300"></iframe> -->
 
 
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Carousel 1</title>
-    <style>
-        .carousel {
-            position: relative;
-            width: 500px;
-            height: 500px;
-            overflow: hidden;
-            margin: auto;
-        }
+<section id="carte">
+    <h2>Cartes de voeux</h2>
 
-        .carousel-inner {
-            display: flex;
-            width: 100%;
-            height: 100%;
-            transition: transform 0.5s ease;
-        }
-
-        .carousel-item {
-            min-width: 100%;
-            height: 100%;
-        }
-
-        .carousel-item iframe {
-            width: 100%;
-            height: 100%;
-        }
-
-        .carousel-controls {
-            position: absolute;
-            top: 50%;
-            width: 100%;
-            display: flex;
-            justify-content: space-between;
-            transform: translateY(-50%);
-        }
-
-        .carousel-controls button {
-            background-color: rgba(0, 0, 0, 0.5);
-            border: none;
-            color: white;
-            padding: 10px;
-            cursor: pointer;
-        }
-
-        .carousel-indicators {
-            position: absolute;
-            bottom: 10px;
-            width: 100%;
-            display: flex;
-            justify-content: center;
-        }
-
-        .carousel-indicators button {
-            background-color: rgba(0, 0, 0, 0.5);
-            border: none;
-            color: white;
-            padding: 5px;
-            cursor: pointer;
-            margin: 0 2px;
-        }
-
-        .carousel-indicators button.active {
-            background-color: white;
-            color: black;
-        }
-    </style>
-</head>
 <body>
     <div class="carousel">
         <div class="carousel-inner">
@@ -997,79 +856,9 @@ Cartes de voeux
 </body>
 </html>
 
+<section id="motifs">
+    <h2>Motifs</h2>
 
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Carousel 2</title>
-    <style>
-        .carousel {
-            position: relative;
-            width: 500px;
-            height: 500px;
-            overflow: hidden;
-            margin: auto;
-        }
-
-        .carousel-inner {
-            display: flex;
-            width: 100%;
-            height: 100%;
-            transition: transform 0.5s ease;
-        }
-
-        .carousel-item {
-            min-width: 100%;
-            height: 100%;
-        }
-
-        .carousel-item iframe {
-            width: 100%;
-            height: 100%;
-        }
-
-        .carousel-controls {
-            position: absolute;
-            top: 50%;
-            width: 100%;
-            display: flex;
-            justify-content: space-between;
-            transform: translateY(-50%);
-        }
-
-        .carousel-controls button {
-            background-color: rgba(0, 0, 0, 0.5);
-            border: none;
-            color: white;
-            padding: 10px;
-            cursor: pointer;
-        }
-
-        .carousel-indicators {
-            position: absolute;
-            bottom: 10px;
-            width: 100%;
-            display: flex;
-            justify-content: center;
-        }
-
-        .carousel-indicators button {
-            background-color: rgba(0, 0, 0, 0.5);
-            border: none;
-            color: white;
-            padding: 5px;
-            cursor: pointer;
-            margin: 0 2px;
-        }
-
-        .carousel-indicators button.active {
-            background-color: white;
-            color: black;
-        }
-    </style>
-</head>
 <body>
     <div class="carousel">
         <div class="carousel-inner">
