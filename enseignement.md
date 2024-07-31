@@ -4,11 +4,8 @@ layout: page
 permalink: /enseignement/
 ---
 
-# Vulgarisation
 
-https://allergocalendar.streamlit.app/ 
 
-<!DOCTYPE html>
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
@@ -16,13 +13,14 @@ https://allergocalendar.streamlit.app/
     <title>Mon Site Web</title>
 </head>
 <body>
-    <h1>Bienvenue sur mon site web</h1>
-    <p>Vous pouvez accéder à mon application Streamlit en cliquant sur le lien ci-dessous :</p>
+    <p> Application  :</p>
     <a href="https://allergocalendar.streamlit.app/" target="_blank">
-        <button>Ouvrir l'application Streamlit</button>
+        <button>Ouvrir xxxx</button>
     </a>
 </body>
 </html>
+
+# Vulgarisation
 
 
 # Tutorat / cours aux externes
