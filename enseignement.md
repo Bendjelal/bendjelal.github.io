@@ -8,25 +8,19 @@ permalink: /enseignement/
 
 https://allergocalendar.streamlit.app/ 
 
- <iframe src="https://allergocalendar.streamlit.app/"></iframe>
-
- <html lang="fr">
+<!DOCTYPE html>
+<html lang="fr">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mon Site Web</title>
-    <style>
-        iframe {
-            width: 100%;
-            height: 800px; /* Ajustez cette hauteur en fonction de vos besoins */
-            border: none; /* Supprime les bordures de l'iframe */
-        }
-    </style>
 </head>
 <body>
     <h1>Bienvenue sur mon site web</h1>
-    <p>Voici mon application Streamlit intégrée :</p>
-    <iframe src="https://allergocalendar.streamlit.app/"></iframe>
+    <p>Vous pouvez accéder à mon application Streamlit en cliquant sur le lien ci-dessous :</p>
+    <a href="https://allergocalendar.streamlit.app/" target="_blank">
+        <button>Ouvrir l'application Streamlit</button>
+    </a>
 </body>
 </html>
 
