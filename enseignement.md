@@ -10,6 +10,26 @@ https://allergocalendar.streamlit.app/
 
  <iframe src="https://allergocalendar.streamlit.app/"></iframe>
 
+ <html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mon Site Web</title>
+    <style>
+        iframe {
+            width: 100%;
+            height: 800px; /* Ajustez cette hauteur en fonction de vos besoins */
+            border: none; /* Supprime les bordures de l'iframe */
+        }
+    </style>
+</head>
+<body>
+    <h1>Bienvenue sur mon site web</h1>
+    <p>Voici mon application Streamlit intégrée :</p>
+    <iframe src="https://allergocalendar.streamlit.app/"></iframe>
+</body>
+</html>
+
 
 # Tutorat / cours aux externes
 
