@@ -40,7 +40,7 @@ La pratique de l'allergologie passe par l'utilisation intensive de frises chrono
 </head>
 <body>
     <div class="button-container">
-        <a href="https://allergocalendar.streamlit.app/" target="_blank" class="custom-button" style="background-color: black; color: white;">Ouvrir AllergoCalendar</a> 
+        <a href="https://allergocalendar.streamlit.app/" target="_blank" class="custom-button" >Ouvrir AllergoCalendar</a>  <!-- style="background-color: black; color: white;" -->
         <br>
         <a href="https://github.com/Bendjelal" target="_blank" class="custom-button">Ouvrir le GitHub</a>
     </div>
