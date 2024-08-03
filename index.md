@@ -3,7 +3,7 @@ layout: page
 order: 1
 ---
 
-<head>
+<!-- <head>
     <meta charset="UTF-8">
     <meta name="photo" content="width=device-width, initial-scale=1.0">
     <style>
@@ -21,7 +21,7 @@ order: 1
     </style>
 </head>
 
-<img src="photo.png" alt="Photo de moi" class="circular-photo">   <br><br>
+<img src="photo.png" alt="Photo de moi" class="circular-photo">   <br><br> -->
 
 Médecin et chercheur, je viens de terminer le second cycle de mes études de Médecine.
 
