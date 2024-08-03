@@ -13,29 +13,20 @@ La pratique de l'allergologie passe par l'utilisation intensive de frises chrono
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mon Site Web</title>
+    <title>Votre Titre</title>
     <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: white;
-        }
         .button-container {
-            display: flex;
-            gap: 10px;
+            text-align: center;
+            margin-top: 20px;
         }
         .custom-button {
-            background-color: white;
-            color: black;
-            border: 2px solid black;
-            padding: 10px 20px;
-            text-align: center;
-            text-decoration: none;
             display: inline-block;
+            margin: 10px;
+            padding: 10px 20px;
             font-size: 16px;
-            margin: 4px 2px;
-            cursor: pointer;
-            border-radius: 12px;
-            transition: background-color 0.3s ease, color 0.3s ease;
+            text-decoration: none;
+            border-radius: 5px;
+            border: 2px solid black;
         }
         .custom-button:hover {
             background-color: black;
@@ -43,13 +34,15 @@ La pratique de l'allergologie passe par l'utilisation intensive de frises chrono
         }
     </style>
 </head>
-<body> 
-    <div class="button-container"><center>
-        <a href="https://allergocalendar.streamlit.app/" target="_blank" class="custom-button">Ouvrir AllergoCalendar</a> <br>
-        <a href="https://github.com/Bendjelal" target="_blank" class="custom-button">Ouvrir le GitHub</a>  <center>
+<body>
+    <div class="button-container">
+        <a href="https://allergocalendar.streamlit.app/" target="_blank" class="custom-button" style="background-color: black; color: white;">Ouvrir AllergoCalendar</a> 
+        <br>
+        <a href="https://github.com/Bendjelal" target="_blank" class="custom-button">Ouvrir le GitHub</a>
     </div>
 </body>
 </html>
+
 
 ## ViralTrack
 
