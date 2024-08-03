@@ -6,7 +6,9 @@ collection: galerie
 entries_layout: grid
 ---
 
-#### Acrylique
+Je me plais à peindre sur mes heures perdues. Ici quelques créations que j'aime particulièrement.
+
+## Acrylique
 
 <!DOCTYPE html>
 <html lang="fr">
@@ -266,9 +268,9 @@ entries_layout: grid
 </html>
 
 
-#### Aquarelle 
+## Aquarelle 
 
-#### Carte de voeux
+## Carte de voeux
 
 <!DOCTYPE html>
 <html lang="fr">
@@ -425,142 +427,3 @@ entries_layout: grid
     </script>
 </body>
 </html>
-
-#### Motifs
-
-<script>
-        const carouselInner1 = document.querySelector('.carousel-inner');
-        const carouselItems1 = document.querySelectorAll('.carousel-item');
-        const prevButton1 = document.getElementById('prev1');
-        const nextButton1 = document.getElementById('next1');
-        const indicators1 = document.querySelectorAll('.carousel-indicators button');
-
-        let currentIndex1 = 0;
-
-        function updateCarousel1() {
-            carouselInner1.style.transform = `translateX(-${currentIndex1 * 100}%)`;
-            indicators1.forEach((indicator, index) => {
-                if (index === currentIndex1) {
-                    indicator.classList.add('active');
-                } else {
-                    indicator.classList.remove('active');
-                }
-            });
-        }
-
-        prevButton1.addEventListener('click', () => {
-            currentIndex1 = (currentIndex1 > 0) ? currentIndex1 - 1 : carouselItems1.length - 1;
-            updateCarousel1();
-        });
-
-        nextButton1.addEventListener('click', () => {
-            currentIndex1 = (currentIndex1 < carouselItems1.length - 1) ? currentIndex1 + 1 : 0;
-            updateCarousel1();
-        });
-
-        indicators1.forEach((indicator, index) => {
-            indicator.addEventListener('click', () => {
-                currentIndex1 = index;
-                updateCarousel1();
-            });
-        });
-    </script>
-
-    <div class="carousel">
-        <div class="carousel-inner">
-            <div class="carousel-item">
-                <iframe loading="lazy" src="https://drive.google.com/file/d/1UaFVqjFMDPqRNqWc7hR3glV160UXzAol/preview" title="Motif 1.jpg"></iframe>
-            </div>
-            <div class="carousel-item">
-                <iframe loading="lazy" src="https://drive.google.com/file/d/15O3kWjAgc9Trv_S2Xh2dKW5VOM95cJTg/preview" title="Motif 10.jpg"></iframe>
-            </div>
-            <div class="carousel-item">
-                <iframe loading="lazy" src="https://drive.google.com/file/d/18VYn5mpNe06pnT_zu27bEG7OE98lGWXD/preview" title="Motif 11.jpg"></iframe>
-            </div>
-            <div class="carousel-item">
-                <iframe loading="lazy" src="https://drive.google.com/file/d/190Jt_L0EPVn85R4R12taZ0Y6_YjssovN/preview" title="Motif 12.jpg"></iframe>
-            </div>
-            <div class="carousel-item">
-                <iframe loading="lazy" src="https://drive.google.com/file/d/1FBVtQsLJzMWJzYsndbcp6nuEY8vomQGt/preview" title="Motif 14.jpg"></iframe>
-            </div>
-            <div class="carousel-item">
-                <iframe loading="lazy" src="https://drive.google.com/file/d/17zmXI4jQq9T7kutljVhKsOQDNK6ljzLy/preview" title="Motif 2.jpg"></iframe>
-            </div>
-            <div class="carousel-item">
-                <iframe loading="lazy" src="https://drive.google.com/file/d/16Mklxumh_ojzE5726PuO9iS-I-yykArM/preview" title="Motif 3.jpg"></iframe>
-            </div>
-            <div class="carousel-item">
-                <iframe loading="lazy" src="https://drive.google.com/file/d/1E6i_jM2yEpGrSUjxzJsqLKeV5IvSZbmE/preview" title="Motif 5 - 5 cm par seconde.jpg"></iframe>
-            </div>
-            <div class="carousel-item">
-                <iframe loading="lazy" src="https://drive.google.com/file/d/1PLdu6STpHXndAIDJFUhw18Etgx_XzpC6/preview" title="Motif 6 - Abondance de fleur.jpg"></iframe>
-            </div>
-            <div class="carousel-item">
-                <iframe loading="lazy" src="https://drive.google.com/file/d/1Ix30qlyZR47IQK05u0htU_N8wt3tMTdh/preview" title="Motif 7.jpg"></iframe>
-            </div>
-            <div class="carousel-item">
-                <iframe loading="lazy" src="https://drive.google.com/file/d/13709QnmMA57f3x5NIPv2t7g_X1a2ljjH/preview" title="Motif 8.jpg"></iframe>
-            </div>
-            <div class="carousel-item">
-                <iframe loading="lazy" src="https://drive.google.com/file/d/1hAuobVlfmzRVasjdFAzC1aUKaiTe2-qb/preview" title="Motif 9.jpg"></iframe>
-            </div>
-        </div>
-        <div class="carousel-controls">
-            <button id="prev2">❮</button>
-            <button id="next2">❯</button>
-        </div>
-        <div class="carousel-indicators">
-            <button class="active" data-slide="0"></button>
-            <button data-slide="1"></button>
-            <button data-slide="2"></button>
-            <button data-slide="3"></button>
-            <button data-slide="4"></button>
-            <button data-slide="5"></button>
-            <button data-slide="6"></button>
-            <button data-slide="7"></button>
-            <button data-slide="8"></button>
-            <button data-slide="9"></button>
-            <button data-slide="10"></button>
-        </div>
-    </div>
-
-    <script>
-        const carouselInner2 = document.querySelector('.carousel-inner');
-        const carouselItems2 = document.querySelectorAll('.carousel-item');
-        const prevButton2 = document.getElementById('prev2');
-        const nextButton2 = document.getElementById('next2');
-        const indicators2 = document.querySelectorAll('.carousel-indicators button');
-
-        let currentIndex2 = 0;
-
-        function updateCarousel2() {
-            carouselInner2.style.transform = `translateX(-${currentIndex2 * 100}%)`;
-            indicators2.forEach((indicator, index) => {
-                if (index === currentIndex2) {
-                    indicator.classList.add('active');
-                } else {
-                    indicator.classList.remove('active');
-                }
-            });
-        }
-
-        prevButton2.addEventListener('click', () => {
-            currentIndex2 = (currentIndex2 > 0) ? currentIndex2 - 1 : carouselItems2.length - 1;
-            updateCarousel2();
-        });
-
-        nextButton2.addEventListener('click', () => {
-            currentIndex2 = (currentIndex2 < carouselItems2.length - 1) ? currentIndex2 + 1 : 0;
-            updateCarousel2();
-        });
-
-        indicators2.forEach((indicator, index) => {
-            indicator.addEventListener('click', () => {
-                currentIndex2 = index;
-                updateCarousel2();
-            });
-        });
-    </script>
-</body>
-</html>
-
