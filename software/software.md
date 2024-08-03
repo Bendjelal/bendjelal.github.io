@@ -19,7 +19,7 @@ La pratique de l'allergologie passe par l'utilisation intensive de frises chrono
     <a href="https://allergocalendar.streamlit.app/" target="_blank">
         <button>Ouvrir AllergoCalendar</button>
     </a>
-</body>
+</body><br>
 <body>
     <a href="https://allergocalendar.streamlit.app/" target="_blank">
         <button>Ouvrir le GitHub</button>
@@ -27,7 +27,7 @@ La pratique de l'allergologie passe par l'utilisation intensive de frises chrono
 </body>
 </html>
 
-<br><br>
+<br>
 
 ## ViralTrack
 
