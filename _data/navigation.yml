@@ -2,13 +2,15 @@
   url: /
 - title: Recherche
   url: /recherche/
-- title: Asso
-  url: /associatif/
+- title: Logiciels
+  url: /logiciels/
 - title: Enseignement
   url: /enseignement/
+  - title: Asso
+  url: /associatif/
 - title: Galerie
   url: /galerie/
-- title: Autres
+- title: Blog
   url: /autres/
 - title: Rechercher
   url: /search/
