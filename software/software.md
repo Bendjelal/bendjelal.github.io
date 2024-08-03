@@ -28,6 +28,10 @@ La pratique de l'allergologie passe par l'utilisation intensive de frises chrono
             border-radius: 5px;
             border: 2px solid black;
         }
+        .custom-button:first-of-type {
+            background-color: black;
+            color: white;
+        }
         .custom-button:hover {
             background-color: black;
             color: white;
@@ -44,9 +48,8 @@ La pratique de l'allergologie passe par l'utilisation intensive de frises chrono
 </html>
 
 
-## ViralTrack
 
-d
+## ViralTrack
 
 Ouvrir la page Github associée.
 
