@@ -51,6 +51,41 @@ La pratique de l'allergologie passe par l'utilisation intensive de frises chrono
 
 ## ViralTrack
 
-Ouvrir la page Github associée.
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Votre Titre</title>
+    <style>
+        .button-container {
+            text-align: center;
+            margin-top: 20px;
+        }
+        .custom-button {
+            display: inline-block;
+            margin: 10px;
+            padding: 10px 20px;
+            font-size: 16px;
+            text-decoration: none;
+            border-radius: 5px;
+            border: 2px solid black;
+        }
+        .custom-button:first-of-type {
+            background-color: white;
+            color: black;
+        }
+        .custom-button:hover {
+            background-color: black;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <div class="button-container">
+        <a href="https://github.com/PierreBSC/Viral-Track" target="_blank" class="custom-button">Aller sur le GitHub</a>
+    </div>
+</body>
+</html>
 
-Ou
+
+
