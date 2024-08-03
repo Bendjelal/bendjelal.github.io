@@ -74,8 +74,6 @@ La pratique de l'allergologie passe par l'utilisation intensive de frises chrono
 
 <br>
 
-
-
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -85,7 +83,7 @@ La pratique de l'allergologie passe par l'utilisation intensive de frises chrono
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #f0f0f0;
+            background-color: white;
         }
         .button-container {
             display: flex;
@@ -118,7 +116,6 @@ La pratique de l'allergologie passe par l'utilisation intensive de frises chrono
     </div>
 </body>
 </html>
-
 
 ## ViralTrack
 
