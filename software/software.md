@@ -5,9 +5,9 @@ permalink: /logiciels/
 ---
 
 
-## AllergoCalendar
+## AllergoTimeline
 
-La pratique de l'allergologie passe par l'utilisation intensive de frises chronologique. Or, créer ce type de frise peut prendre beaucoup de temps. J'ai créé AllergoCalendar pour remédier à ce problème. AllergoCalendar est une application portable permettant de créer rapidement une frise chronologique. Elle peut s'utiliser en ligne en "push-bouton" ou être téléchargée et utiliser depuis le Terminal.
+La pratique de l'allergologie passe par l'utilisation intensive de frises chronologique. Or, créer ce type de frise peut prendre beaucoup de temps. J'ai créé AllergoTimeline pour remédier à ce problème. AllergoTimeline est une application portable permettant de créer rapidement une frise chronologique. Elle peut s'utiliser en ligne en "push-bouton" ou être téléchargée et utiliser depuis le Terminal.
 
 <html lang="fr">
 <head>
@@ -40,7 +40,7 @@ La pratique de l'allergologie passe par l'utilisation intensive de frises chrono
 </head>
 <body>
     <div class="button-container">
-        <a href="https://allergocalendar.streamlit.app/" target="_blank" class="custom-button" >Ouvrir AllergoCalendar</a>      <!-- style="background-color: black; color: white;" -->
+        <a href="https://allergocalendar.streamlit.app/" target="_blank" class="custom-button" >Ouvrir AllergoTimeline</a>      <!-- style="background-color: black; color: white;" -->
         <br>
         <a href="https://github.com/Bendjelal" target="_blank" class="custom-button">Aller sur le GitHub</a>
     </div>
