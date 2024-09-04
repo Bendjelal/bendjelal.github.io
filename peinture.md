@@ -1,5 +1,5 @@
 ---
-title: Autres
+title: Blog
 layout: posts
 permalink: /autres/
 ---
