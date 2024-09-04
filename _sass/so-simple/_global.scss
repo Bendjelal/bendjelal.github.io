@@ -76,6 +76,9 @@
   padding: 0;
   @include fluid-type($min-vw, $max-vw, $h1-min, $h1-max);
   font-weight: 700;
+  text-align: center; /* Centrer le titre */
+  font-family: inherit; /* Utiliser la même police que celle définie dans les variables */
+
 
   a {
     text-decoration: none;
