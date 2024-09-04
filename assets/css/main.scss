@@ -6,3 +6,8 @@ sitemap: false
 @charset "utf-8";
 
 @import "so-simple";
+
+.site-title {
+  text-align: center; /* Centrer le titre */
+  font-family: inherit; /* Utiliser la même police que les autres titres */
+}
