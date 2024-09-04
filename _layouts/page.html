@@ -1,26 +1,37 @@
 ---
 layout: default
 ---
-
 <main id="main" class="main-content" aria-label="Content">
   <article>
+    <!-- Inclut une image de la page si disponible -->
     {% include page-image.html %}
+    
     <div class="page-wrapper">
-      <header class="page-header">
+      <header class="page-header" style="text-align: center;"> <!-- Ajout du centrage ici -->
+        <!-- Gestion du titre avec ou sans identifiant -->
         {% if page.id %}
           {% assign title = page.title | markdownify | strip_html %}
         {% else %}
           {% assign title = page.title %}
         {% endif %}
+
+        <!-- Si un lien est présent, rendre le titre cliquable, sinon juste afficher le titre -->
         {% if page.link %}
-          <h1 id="page-title" class="page-title"><a href="{{ page.link }}">{{ title }} <span class="link-arrow">&rarr;</span></a></h1>
+          <h1 id="page-title" class="page-title">
+            <a href="{{ page.link }}">
+              {{ title }} <span class="link-arrow">&rarr;</span>
+            </a>
+          </h1>
         {% else %}
           <h1 id="page-title" class="page-title">{{ title }}</h1>
         {% endif %}
       </header>
+
+      <!-- Contenu principal de la page -->
       <div class="page-content">
         {{ content }}
 
+        <!-- Affichage des options de partage si activé -->
         {% if page.share %}
           {% include social-share.html %}
         {% endif %}
