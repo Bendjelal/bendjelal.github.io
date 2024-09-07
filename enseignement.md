@@ -17,5 +17,7 @@ permalink: /enseignement/
 
 # Ressources utiles
 
-- Le projet d'un ami, qui a fait le tour des grandes villes de France à la recherche d'une ville où faire son internat.
-<iframe width="432" height="768" src="https://www.youtube.com/embed/s1mq1nEyvjI" title="J&#39;irai guérir chez vous- Générique" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+- [J'irai Guérir Chez Vous](https://www.youtube.com/channel/UC_2ZIHNIbXjYTcSeux8Foog), un pote a fait le tour des grandes villes de France à la recherche d'une ville où faire son internat.
+<center>
+  <iframe width="215" height="365" src="https://www.youtube.com/embed/s1mq1nEyvjI" title="J&#39;irai guérir chez vous- Générique" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
