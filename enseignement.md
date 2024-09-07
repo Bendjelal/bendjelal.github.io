@@ -6,6 +6,7 @@ permalink: /enseignement/
 
 # Vulgarisation
 
+En cours de construction.
 
 # Tutorat / cours aux externes
 
