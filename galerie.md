@@ -88,20 +88,24 @@ Je me plais à peindre sur mes heures perdues. Ici quelques créations que j'aim
                 <iframe loading="lazy" src="https://drive.google.com/file/d/1cNLveEmEDr0elVbS4JxG1CTXAHq4RGnC/preview"></iframe>
             </div>
             <div class="carousel-item">
-                <iframe loading="lazy" src="https://drive.google.com/file/d/131BjXzLPFu2ioNz3Ys-jzU6BOxZvRFhL/preview" title="Cardboard pull 3 (CE 20 x 20).heic"></iframe>
+                <iframe loading="lazy" src="https://drive.google.com/file/d/1USEljVwcWTb1FYSNcoLCZbsqCgtL76hA/preview").heic"></iframe>
             </div>
             <div class="carousel-item">
                 <iframe loading="lazy" src="https://drive.google.com/file/d/1INsEnUjB3MEL1CYF0pwq3XgJki7mLYIi/preview" title="Cardboard pull 4 - Fluorescent (CE 21 x 30).heic"></iframe>
             </div>
+            <!--
             <div class="carousel-item">
                 <iframe loading="lazy" src="https://drive.google.com/file/d/1fNgU0reOz7Cqd4yQIXkQBx1Vk2G_C0-R/preview" title="Cardboard pull 6.heic"></iframe>
             </div>
+            -->
             <div class="carousel-item">
                 <iframe loading="lazy" src="https://drive.google.com/file/d/1Ae52NCcpynB29mIGXB7_uRpfS3U6MCdu/preview" title="Cardboard pull 8 (toile 40 x 50).heic"></iframe>
             </div>
+            <!--
             <div class="carousel-item">
                 <iframe loading="lazy" src="https://drive.google.com/file/d/1bzcES1Lh90mDuexcZmCb0W0Bmsy3RI-X/preview" title="Cardboard pull 9 - Butterfly (toile 40 x 50).heic"></iframe>
             </div>
+            -->
             <div class="carousel-item">
                 <iframe loading="lazy" src="https://drive.google.com/file/d/1BNILMiH8bKWKX1WJdQh9U3A0m6qHQcjk/preview" title="Cardboard swipe 1 (CE 21 x 30).heic"></iframe>
             </div>
@@ -111,9 +115,11 @@ Je me plais à peindre sur mes heures perdues. Ici quelques créations que j'aim
             <div class="carousel-item">
                 <iframe loading="lazy" src="https://drive.google.com/file/d/1VM_O09YhvGyG7eX5B8Qag4uJkAjxhch2/preview" title="Chaotic pour 3 - Rose et mauve (toile 40 x 40).heic"></iframe>
             </div>
+            <!--
             <div class="carousel-item">
                 <iframe loading="lazy" src="https://drive.google.com/file/d/1wBXJjhOXYgoUXfGtH3IUrydU1K3QG0HP/preview" title="Chaotique pour 1 (toile 20 x 20).heic"></iframe>
             </div>
+            -->
             <div class="carousel-item">
                 <iframe loading="lazy" src="https://drive.google.com/file/d/150hKglGTN3-R_7po5riJjCS6aFLQprx9/preview" title="Couteau 1 (toile 40 x 40).heic"></iframe>
             </div>
@@ -135,6 +141,7 @@ Je me plais à peindre sur mes heures perdues. Ici quelques créations que j'aim
             <div class="carousel-item">
                 <iframe loading="lazy" src="https://drive.google.com/file/d/1qKQHPkB85uvqHLa8oL8jrXXhDHViYq64/preview" title="Flip cup 2 - Oniroi (toile 40 x 40).heic"></iframe>
             </div>
+            <!--
             <div class="carousel-item">
                 <iframe loading="lazy" src="https://drive.google.com/file/d/1LX5HCV4psmm4xxKJYQf-MCDVP6uWEbnN/preview" title="Flower pour 1 (toile 20 x 20).heic"></iframe>
             </div>
@@ -144,15 +151,18 @@ Je me plais à peindre sur mes heures perdues. Ici quelques créations que j'aim
             <div class="carousel-item">
                 <iframe loading="lazy" src="https://drive.google.com/file/d/1G5gf2yEmV8pG8zWnKBfUBIFxk-yTRmch/preview" title="Flower pour 4 (toile 40 x 40).heic"></iframe>
             </div>
+            -->
             <div class="carousel-item">
                 <iframe loading="lazy" src="https://drive.google.com/file/d/1zkXTTEShJ85LoZ8NorPH9_tzJZr_QBaZ/preview" title="Mix arc-en-ciel 1 (toile 20 x 20).heic"></iframe>
             </div>
+            <!--
             <div class="carousel-item">
                 <iframe loading="lazy" src="https://drive.google.com/file/d/1Z4_TdhjxeW8v8zJTkuVNlw7lajZPN-8J/preview" title="Mix arc-en-ciel 3 (toile 20 x 20).heic"></iframe>
             </div>
             <div class="carousel-item">
                 <iframe loading="lazy" src="https://drive.google.com/file/d/1Vy277BRddI0LgNKlpX2SllqdrHNgc2k_/preview" title="Mix arc-en-ciel 4 (toile 30 x 30).heic"></iframe>
             </div>
+            -->
             <div class="carousel-item">
                 <iframe loading="lazy" src="https://drive.google.com/file/d/1duI87n9ZxEGvqrdX-p1sZox4sH36aDwB/preview" title="Squeegee swipe 1 .heic"></iframe>
             </div>
