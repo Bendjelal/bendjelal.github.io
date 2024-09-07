@@ -78,8 +78,7 @@ Je me plais à peindre sur mes heures perdues. Ici quelques créations que j'aim
     <div class="carousel">
         <div class="carousel-inner">
             <div class="carousel-item">
-                <iframe loading="lazy" 
-                    src="https://drive.google.com/file/d/1fgIqy1jRvxTpoCXN3wH5SuQJcLS7-HlR/preview" title="Baricade arc-en-ciel.heic"></iframe>
+                <iframe loading="lazy" src="https://drive.google.com/file/d/1qzU4GJUEsXDQA7ZPyKa6WJJX2oC7iFrI/preview" title="Squeegee swipe 4 (toile 40 x 40).heic"></iframe>
             </div>
             <div class="carousel-item">
                 <iframe loading="lazy" src="https://drive.google.com/file/d/1udqgpjZKfTq5f7EUYEzyA-sFx13YebQV/preview"></iframe>
@@ -138,10 +137,10 @@ Je me plais à peindre sur mes heures perdues. Ici quelques créations que j'aim
             <div class="carousel-item">
                 <iframe loading="lazy" src="https://drive.google.com/file/d/1GxBLbnp4YrCnfrymS29JCkk_wXRVsLld/preview" title="Flip cup 1 - Géode onirique (toile 40 x 40).heic"></iframe>
             </div>
+            <!--
             <div class="carousel-item">
                 <iframe loading="lazy" src="https://drive.google.com/file/d/1qKQHPkB85uvqHLa8oL8jrXXhDHViYq64/preview" title="Flip cup 2 - Oniroi (toile 40 x 40).heic"></iframe>
             </div>
-            <!--
             <div class="carousel-item">
                 <iframe loading="lazy" src="https://drive.google.com/file/d/1LX5HCV4psmm4xxKJYQf-MCDVP6uWEbnN/preview" title="Flower pour 1 (toile 20 x 20).heic"></iframe>
             </div>
@@ -171,9 +170,6 @@ Je me plais à peindre sur mes heures perdues. Ici quelques créations que j'aim
             </div>
             <div class="carousel-item">
                 <iframe loading="lazy" src="https://drive.google.com/file/d/1T0eCzwR_cnggGhCI1Nyfvzv8lJtTYEhQ/preview" title="Squeegee swipe 3 (toile 40 x 40).heic"></iframe>
-            </div>
-            <div class="carousel-item">
-                <iframe loading="lazy" src="https://drive.google.com/file/d/1qzU4GJUEsXDQA7ZPyKa6WJJX2oC7iFrI/preview" title="Squeegee swipe 4 (toile 40 x 40).heic"></iframe>
             </div>
             <div class="carousel-item">
                 <iframe loading="lazy" src="https://drive.google.com/file/d/11Ly-vJiB1BxAiS_l304TeShQR3uB3XFy/preview" title="Straight pour 1 - Ciel nuageux (toile 40 x 40).heic"></iframe>
