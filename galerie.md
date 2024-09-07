@@ -8,8 +8,9 @@ entries_layout: grid
 
 Je me plais à peindre sur mes heures perdues. Ici quelques créations que j'aime particulièrement.
 
+<!--
 ## Acrylique
-
+-->
 
 <html lang="fr">
 <head>
@@ -19,8 +20,8 @@ Je me plais à peindre sur mes heures perdues. Ici quelques créations que j'aim
     <style>
         .carousel {
             position: relative;
-            width: 500px;
-            height: 500px;
+            width: 1500px;
+            height: 1500px;
             overflow: hidden;
             margin: auto;
         }
@@ -87,7 +88,7 @@ Je me plais à peindre sur mes heures perdues. Ici quelques créations que j'aim
                 <iframe loading="lazy" src="https://drive.google.com/file/d/1cNLveEmEDr0elVbS4JxG1CTXAHq4RGnC/preview"></iframe>
             </div>
             <div class="carousel-item">
-                <iframe loading="lazy" src="https://drive.google.com/file/d/1USEljVwcWTb1FYSNcoLCZbsqCgtL76hA/preview").heic"></iframe>
+                <iframe loading="lazy" src="https://drive.google.com/file/d/1USEljVwcWTb1FYSNcoLCZbsqCgtL76hA/preview"></iframe>
             </div>
             <div class="carousel-item">
                 <iframe loading="lazy" src="https://drive.google.com/file/d/1INsEnUjB3MEL1CYF0pwq3XgJki7mLYIi/preview" title="Cardboard pull 4 - Fluorescent (CE 21 x 30).heic"></iframe>
@@ -272,6 +273,8 @@ Je me plais à peindre sur mes heures perdues. Ici quelques créations que j'aim
         });
     </script>
 </body>
+
+<!--
 </html>
 
 
@@ -657,7 +660,6 @@ Je me plais à peindre sur mes heures perdues. Ici quelques créations que j'aim
 </body>
 </html>
 
-<!--
 ## Carte de voeux
 
 <html lang="fr">
@@ -774,7 +776,7 @@ Je me plais à peindre sur mes heures perdues. Ici quelques créations que j'aim
             <button data-slide="9"></button>
         </div>
     </div>
--->
+
     <script>
         const carouselInner1 = document.querySelector('.carousel-inner');
         const carouselItems1 = document.querySelectorAll('.carousel-item');
@@ -813,4 +815,4 @@ Je me plais à peindre sur mes heures perdues. Ici quelques créations que j'aim
         });
     </script>
 </body>
-</html>
+</html>-->
