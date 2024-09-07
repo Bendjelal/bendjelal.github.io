@@ -51,4 +51,5 @@ Je consulte en analyse de données avec mon entreprise [ADOS Conseil](https://ad
 
 # Contact
 
-Pour une collaboration, vous pouvez me contacter via [Linkedin](https://www.linkedin.com/in/yanis-bendjelal/?locale=fr_FR).
+Pour une collaboration, vous pouvez me contacter via [Linkedin](https://www.linkedin.com/in/yanis-bendjelal/?locale=fr_FR).  
+Pour une mission d'analyse de données, notamment pour une thèse de médecine, vous trouverez plus d'informations ici [ADOS Conseil](https://ados-conseil.github.io/).
