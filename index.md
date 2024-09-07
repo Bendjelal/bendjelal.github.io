@@ -23,13 +23,11 @@ order: 1
 
 <img src="photo.png" alt="Photo de moi" class="circular-photo">   <br><br> -->
 
-Médecin et chercheur, je viens de terminer le second cycle de mes études de Médecine.
-
-En médecine, je m'intéresse à l'allergologie et à la chirurgie ORL.
+Médecin et chercheur, je viens de terminer le second cycle de mes études de Médecine. Je m'apprête à entamer un internat d'allergologie à partir de novembre 2024.
 
 En recherche, je m'intéresse à l'analyse de données à grande échelle et au machine learning, en particulier par le développement du machine learning interprétable pour la santé.
 
-Je consulte en analyse de données avec mon entreprise [ADOS Conseil](https://ados-conseil.github.io/).
+Comme activité secondaire, je consulte en analyse de données avec mon entreprise [ADOS Conseil](https://ados-conseil.github.io/). Je réalise notamment des études statistiques pour des thèses en médecine et des projets de recherche.
 
 # Nouveautés
 
