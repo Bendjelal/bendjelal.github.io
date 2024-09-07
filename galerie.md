@@ -20,8 +20,8 @@ Je me plais à peindre sur mes heures perdues. Ici quelques créations que j'aim
     <style>
         .carousel {
             position: relative;
-            width: 1500px;
-            height: 1500px;
+            width: 750px;
+            height: 750px;
             overflow: hidden;
             margin: auto;
         }
