@@ -87,7 +87,7 @@ Je me plais à peindre sur mes heures perdues. Ici quelques créations que j'aim
                 <iframe loading="lazy" src="https://drive.google.com/file/d/1cNLveEmEDr0elVbS4JxG1CTXAHq4RGnC/preview"></iframe>
             </div>
             <div class="carousel-item">
-                <iframe loading="lazy" src="https://drive.google.com/file/d/1USEljVwcWTb1FYSNcoLCZbsqCgtL76hA/preview").heic"></iframe>
+                <iframe loading="lazy" src="https://drive.google.com/file/d/1USEljVwcWTb1FYSNcoLCZbsqCgtL76hA/preview"></iframe>
             </div>
             <div class="carousel-item">
                 <iframe loading="lazy" src="https://drive.google.com/file/d/1INsEnUjB3MEL1CYF0pwq3XgJki7mLYIi/preview" title="Cardboard pull 4 - Fluorescent (CE 21 x 30).heic"></iframe>
