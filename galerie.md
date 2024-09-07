@@ -8,8 +8,9 @@ entries_layout: grid
 
 Je me plais à peindre sur mes heures perdues. Ici quelques créations que j'aime particulièrement.
 
+<!--
 ## Acrylique
-
+-->
 
 <html lang="fr">
 <head>
@@ -19,8 +20,8 @@ Je me plais à peindre sur mes heures perdues. Ici quelques créations que j'aim
     <style>
         .carousel {
             position: relative;
-            width: 500px;
-            height: 500px;
+            width: 1500px;
+            height: 1500px;
             overflow: hidden;
             margin: auto;
         }
