@@ -29,6 +29,8 @@ En médecine, je m'intéresse à l'allergologie et à la chirurgie ORL.
 
 En recherche, je m'intéresse à l'analyse de données à grande échelle et au machine learning, en particulier par le développement du machine learning interprétable pour la santé.
 
+Je consulte en analyse de données avec mon entreprise [ADOS Conseil](https://ados-conseil.github.io/).
+
 # Nouveautés
 
 * **Juillet 2024** : Elu VP Informatique de l'Association Nationale des Doubles Cursus en Santé (ANDCS)
