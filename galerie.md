@@ -272,6 +272,8 @@ Je me plais à peindre sur mes heures perdues. Ici quelques créations que j'aim
         });
     </script>
 </body>
+
+<!--
 </html>
 
 
@@ -657,7 +659,6 @@ Je me plais à peindre sur mes heures perdues. Ici quelques créations que j'aim
 </body>
 </html>
 
-<!--
 ## Carte de voeux
 
 <html lang="fr">
@@ -774,7 +775,7 @@ Je me plais à peindre sur mes heures perdues. Ici quelques créations que j'aim
             <button data-slide="9"></button>
         </div>
     </div>
--->
+
     <script>
         const carouselInner1 = document.querySelector('.carousel-inner');
         const carouselItems1 = document.querySelectorAll('.carousel-item');
@@ -813,4 +814,4 @@ Je me plais à peindre sur mes heures perdues. Ici quelques créations que j'aim
         });
     </script>
 </body>
-</html>
+</html>-->
