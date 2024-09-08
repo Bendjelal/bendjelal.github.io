@@ -11,6 +11,7 @@ J'ai participé à la création, et assumé le rôle de premier Président de l'
 - J'ai d'abord créé le [site internet](https://ciremwebsite.github.io/).
 
 
+<br> 
 Le CIREM est l'héritier du CIRE, Collectif Interfacultaire de Réflexion sur les ECOS. Le CIRE a été formé en mars 2024 suite au fiasco des ECOS blancs nationaux. Ses actions : 
 
 - Consultation nationale des étudiants en Médecine à propos des ECOS. Parmi les **2523 répondants**, dont 1440 DFASM3, **83% demandent des ECOS validants**. Résultats complets [ici](https://bendjelal.github.io/associatif/CIREM/sondage_cire_resultat.png).
