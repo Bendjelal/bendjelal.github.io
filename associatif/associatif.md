@@ -9,6 +9,7 @@ permalink: /associatif/
 J'ai participé à la création, et assumé le rôle de premier Président de l'association entre 2024 et 2025.
 
 - J'ai d'abord créé le [site internet](https://ciremwebsite.github.io/).
+  
 - Je préside actuellement l'association.
 
 <br> 
