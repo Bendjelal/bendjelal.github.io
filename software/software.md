@@ -7,7 +7,7 @@ permalink: /logiciels/
 
 ## AllergoTimeline
 
-La pratique de l'allergologie passe par l'utilisation intensive de frises chronologique. Or, créer ce type de frise peut prendre beaucoup de temps. J'ai créé AllergoTimeline pour remédier à ce problème. AllergoTimeline est une application portable permettant de créer rapidement une frise chronologique. Elle peut s'utiliser en ligne en "push-bouton" ou être téléchargée et utiliser depuis le Terminal.
+La pratique de l'allergologie passe par l'utilisation intensive de frises chronologiques. Or, créer ce type de frise peut prendre beaucoup de temps. J'ai créé AllergoTimeline pour remédier à ce problème. AllergoTimeline est une application portable permettant de créer rapidement une frise chronologique. Elle peut s'utiliser en ligne en "push-bouton" ou être téléchargée et utiliser depuis le terminal.
 
 <html lang="fr">
 <head>
@@ -50,6 +50,9 @@ La pratique de l'allergologie passe par l'utilisation intensive de frises chrono
 
 
 ## ViralTrack
+
+Le séquençage RNA seq à l'échelle de la cellule unique a ouvert un nouveau terrain de jeu pour l'étude des relations hôte-virus. Lors de mon stage de master à l'Institut Pasteur, j'ai co-développé ViralTrack, un logiciel d'aide à l'analyse de ces relations cellule-virus.  
+Dès 2020, nous avons appliqué ViralTrack à l'étude des effets du Covid, et publié nos résultats dans *Cell*.
 
 <html lang="fr">
 <head>
