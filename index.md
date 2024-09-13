@@ -23,14 +23,17 @@ order: 1
 
 <img src="photo.png" alt="Photo de moi" class="circular-photo">   <br><br> -->
 
-Médecin et chercheur, je viens de terminer le second cycle de mes études de Médecine. Je m'apprête à entamer un internat d'allergologie à partir de novembre 2024.
-
+Médecin et chercheur, je viens de terminer le second cycle de mes études de Médecine. Je m'apprête à entamer un internat d'allergologie à Paris en novembre 2024.
+¢
 En recherche, je m'intéresse à l'analyse de données à grande échelle et au machine learning, notamment au développement du machine learning interprétable pour la santé.
 
 Comme activité secondaire, je consulte en analyse de données avec mon entreprise [ADOS Conseil](https://ados-conseil.github.io/). Je réalise notamment des études statistiques pour des thèses en médecine et des projets de recherche.
 
 # Nouveautés
 
+* **13/09/24** : Affectation d'interne en Allergologie à l'AP-HP, mon premier choix 😊   
+![Affectation](pictures/affectation.png "Affectation")
+  
 * **Juillet 2024** : Elu VP Informatique de l'Association Nationale des Doubles Cursus en Santé (ANDCS)
   
 * **Juin 2024** : Nommé Président du Collectif Interfacultaire Représentant les Externes en Médecine (CIREM)

@@ -1,5 +1,144 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/bendjelal/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/bendjelal/" rel="alternate" type="text/html" /><updated>2024-06-01T23:13:17+02:00</updated><id>http://localhost:4000/bendjelal/atom.xml</id><title type="html">Yanis Bendjelal</title><subtitle>Médecine, recherche</subtitle><author><name>Yanis Bendjelal</name></author><entry><title type="html">Host-Viral Infection Maps Reveal Signatures of Severe COVID-19 Patients</title><link href="http://localhost:4000/bendjelal/docs/publications/2020/06/25/cell.html" rel="alternate" type="text/html" title="Host-Viral Infection Maps Reveal Signatures of Severe COVID-19 Patients" /><published>2020-06-25T17:31:17+02:00</published><updated>2020-06-25T17:31:17+02:00</updated><id>http://localhost:4000/bendjelal/docs/publications/2020/06/25/cell</id><content type="html" xml:base="http://localhost:4000/bendjelal/docs/publications/2020/06/25/cell.html"><![CDATA[<p>Viruses are a constant threat to global health as highlighted by the current COVID-19 pandemic. Currently, lack of data underlying how the human host interacts with viruses, including the SARS-CoV-2 virus, limits effective therapeutic intervention. We introduce Viral-Track, a computational method that globally scans unmapped single-cell RNA sequencing (scRNA-seq) data for the presence of viral RNA, enabling transcriptional cell sorting of infected versus bystander cells. We demonstrate the sensitivity and specificity of Viral-Track to systematically detect viruses from multiple models of infection, including hepatitis B virus, in an unsupervised manner. Applying Viral-Track to bronchoalveloar-lavage samples from severe and mild COVID-19 patients reveals a dramatic impact of the virus on the immune system of severe patients compared to mild cases. Viral-Track detects an unexpected co-infection of the human metapneumovirus, present mainly in monocytes perturbed in type-I interferon (IFN)-signaling. Viral-Track provides a robust technology for dissecting the mechanisms of viral-infection and pathology.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/site/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/site/" rel="alternate" type="text/html" /><updated>2024-09-13T17:37:29+02:00</updated><id>http://localhost:4000/site/atom.xml</id><title type="html">Yanis Bendjelal</title><subtitle>Interne en médecine &amp; Chercheur</subtitle><author><name>Yanis Bendjelal</name></author><entry><title type="html">Acrylique écologique</title><link href="http://localhost:4000/site/docs/2024/06/14/%C3%A9cologie.html" rel="alternate" type="text/html" title="Acrylique écologique" /><published>2024-06-14T00:00:00+02:00</published><updated>2024-06-14T00:00:00+02:00</updated><id>http://localhost:4000/site/docs/2024/06/14/%C3%A9cologie</id><content type="html" xml:base="http://localhost:4000/site/docs/2024/06/14/%C3%A9cologie.html"><![CDATA[<p>Peindre à l’acrylique nécessite d’utiliser de grandes quantités de matériel, à la fois en terme de peinture, en terme de supports et en terme d’additifs. Cette gourmandise en produits divers, souvent toxiques, contribue à un effet délétère sur l’environnement.<br />
+Le but de ce post est de réfléchir à des moyens de réduire au maximum les besoins du peintre, tout en maintenant ses possibilités créatrices.</p>
 
-<p>Keywords: COVID-19; Viral-Track; single-cell RNA-seq; virus host interactions</p>
+<h1 id="la-peinture">La peinture</h1>
 
-<p>Lien : https://pubmed.ncbi.nlm.nih.gov/32479746/</p>]]></content><author><name>xxxx</name></author><category term="docs" /><category term="publications" /><summary type="html"><![CDATA[Viruses are a constant threat to global health as highlighted by the current COVID-19 pandemic. Currently, lack of data underlying how the human host interacts with viruses, including the SARS-CoV-2 virus, limits effective therapeutic intervention. We introduce Viral-Track, a computational method that globally scans unmapped single-cell RNA sequencing (scRNA-seq) data for the presence of viral RNA, enabling transcriptional cell sorting of infected versus bystander cells. We demonstrate the sensitivity and specificity of Viral-Track to systematically detect viruses from multiple models of infection, including hepatitis B virus, in an unsupervised manner. Applying Viral-Track to bronchoalveloar-lavage samples from severe and mild COVID-19 patients reveals a dramatic impact of the virus on the immune system of severe patients compared to mild cases. Viral-Track detects an unexpected co-infection of the human metapneumovirus, present mainly in monocytes perturbed in type-I interferon (IFN)-signaling. Viral-Track provides a robust technology for dissecting the mechanisms of viral-infection and pathology.]]></summary></entry></feed>
+<h2 id="conserver-ses-acryliques-plus-longtemps">Conserver ses acryliques plus longtemps</h2>
+
+<p>L’acrylique a la particularité de sécher rapidement. Hors, contrairement à l’aquarelle, il est très difficile de réactiver une peinture sèche en y ajoutant de l’eau. Ma solution est donc d’empêcher la peinture de sécher, ou au moins de fortement ralentir ce processus. J’utilise pour cela une palette humide.<br />
+Il existe plusieurs types de palettes humide. Personnellement, je préfère utiliser les palettes simples, avec un couvercle en silicone qui permet de limiter les échanges entre la peinture et le milieu extérieur.</p>
+
+<p>Exemple de palette humide :<br />
+<img src="https://m.media-amazon.com/images/I/51LB2xFeUFS._AC_SL1500_.jpg" alt="s" /></p>
+
+<h2 id="réutiliser-les-tubes-de-peinture-vides">Réutiliser les tubes de peinture vides</h2>
+
+<p>Je récupère les bouchons des tubes de peinture vides que je stocke dans une vieille boîte à café. Je peux ensuite les réutiliser comme supports sur lesquels poser mes toiles lorsqu’elles sèches (4 bouchons d’un même modèle pour une toile carrée).<br />
+Cela permet d’éviter d’acheter des punaises à clouer sous les chassis, avec le risque de marcher dessus par inadvertance.</p>
+
+<p>Je cherche actuellement un usage pour la partie réservoir des tubes.</p>
+
+<h2 id="réutiliser-les-boîtes-en-plastique-et-en-carton">Réutiliser les boîtes en plastique et en carton</h2>
+
+<p>Lorsque j’achète un produit, il vient souvent dans une boîte en carton. Je découpe alors cette boite en petits morceaux en forme de languettes, dont je me sers pour travailler les textures de ma peinture.</p>
+
+<h2 id="recycler-ses-acryliques">Recycler ses acryliques</h2>
+
+<p>Il arrive de rater un tableau. Dans le cas où le tableau est irrécupérable, on peut racler sa toile afin de récupérer les restes de peinture, pour ensuite les conserver dans une palette humide.<br />
+Le mélange des couleurs issues de la peinture retirée du tableau pourra donner du gris ou du brun, qui pourra ensuite être réutiliser comme fond pour une prochaine oeuvre, ou pour peindre la tranche d’une toile afin de lui donner un aspect plus uniforme.</p>
+
+<h1 id="les-supports">Les supports</h1>
+
+<h2 id="recycler-une-ancienne-toile">Recycler une ancienne toile</h2>
+
+<p>Si la toile n’est pas vernie, il suffit de la “laver” avec de l’eau, de préférence chaude. J’ai remarqué que l’eau chaude permet de retirer plus facilement des morceaux de peinture polymérisés, et donc de nettoyer plus facilement l’acrylique. Pour limiter la consommation d’eau, on peut utiliser un récipient d’eaudans lequel on trempera une éponge.<br />
+Je n’ai pour l’instant pas essayé de recycler une toile vernie.</p>
+
+<p>Pour plus d’information, une vidéo très intéressante de Bernie ART Fluide : <br />
+<a href="https://www.youtube.com/watch?v=rfd4GN98Pmg"><img src="https://i.ytimg.com/vi/rfd4GN98Pmg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&amp;rs=AOn4CLDDcYCu_74Rv1bW72MixvD2MYWGVw" alt="Cliquez pour ouvrir" /></a></p>
+
+<h1 id="les-additifs">Les additifs</h1>
+
+<h2 id="réutiliser-les-vieilles-bouteilles-de-produit">Réutiliser les vieilles bouteilles de produit</h2>
+
+<p>De nombreux additifs viennent sous la forme de bouteille. J’aime récupérer ces bouteilles vides et m’en servir pour stocker mes préparations maisons (ex : mélange pour acrylique pouring).</p>]]></content><author><name>Yanis Bendjelal</name></author><category term="docs" /><summary type="html"><![CDATA[Peindre à l’acrylique nécessite d’utiliser de grandes quantités de matériel, à la fois en terme de peinture, en terme de supports et en terme d’additifs. Cette gourmandise en produits divers, souvent toxiques, contribue à un effet délétère sur l’environnement. Le but de ce post est de réfléchir à des moyens de réduire au maximum les besoins du peintre, tout en maintenant ses possibilités créatrices.]]></summary></entry><entry><title type="html">Extraction de pigments naturels - Réflexions sur la filtration</title><link href="http://localhost:4000/site/docs/2024/06/07/filtration.html" rel="alternate" type="text/html" title="Extraction de pigments naturels - Réflexions sur la filtration" /><published>2024-06-07T00:00:00+02:00</published><updated>2024-06-07T00:00:00+02:00</updated><id>http://localhost:4000/site/docs/2024/06/07/filtration</id><content type="html" xml:base="http://localhost:4000/site/docs/2024/06/07/filtration.html"><![CDATA[<h1 id="types-de-filtres-faciles-à-mettre-en-place">Types de filtres faciles à mettre en place</h1>
+
+<ul>
+  <li>coton (disque démaquillant) : filtration très fine</li>
+  <li>filtre a café : filtration fine</li>
+  <li>tissu (vieux torchon) : filtration moyenne</li>
+  <li>passoire de cuisine : filtration moyenne à grossière</li>
+</ul>
+
+<p><strong>NB</strong> : filtrer à chaud permettrait d’aller plus vite ?</p>
+
+<h1 id="filtrer-un-échantillon-brut-de-terre-pour-en-sortir-les-pigments-pigments-minéraux-">Filtrer un échantillon brut de terre pour en sortir les pigments (pigments minéraux ++)</h1>
+
+<h2 id="partie-1--retirer-les-impuretés-de-la-terre-cailloux-herbe-etc--nettoyer-la-terre">Partie 1 : retirer les impuretés de la terre (cailloux, herbe, etc.) = “nettoyer” la terre</h2>
+
+<p><strong>But</strong> : Minimiser les corps étrangers dans l’échantillon de terre.</p>
+
+<p>Méthode (a tester) : 
+1) passage de la terre dans un filtre grossier, en mouillant pour récupérer un maximum de terre <br />
+  –&gt; les gros débris restent dans le filtre <br />
+2) Dans le récipient qui contient la terre et l’eau, ajouter un peu d’eau et bien mélanger pour tout mettre en suspension<br />
+3) Laisser XXX le temps de décanter<br />
+4) Récupérer les débris les plus légers, alors en suspension, avec un filtre moyen (qui doit donc laisser passer les pigments)<br />
+-&gt; terre purifiée ?</p>
+
+<h2 id="partie-2--extraire-les-pigments-de-la-terre-nettoyée">Partie 2 : Extraire les pigments de la terre nettoyée</h2>
+
+<p><strong>But</strong> : Récupérer les pigments minéraux dans la terre.</p>
+
+<p>ss</p>
+
+<h1 id="purifier-une-solution-colorée-avant-précipitation-des-pigments-pigments-organiques-">Purifier une solution colorée avant précipitation des pigments (pigments organiques ++)</h1>
+
+<p><strong>But</strong> : obtenir un liquide le plus pur possible, c’est-à-dire débarassé des petites particules solides. Particulièrement utile avant l’étape de précipitation des pigments (qu’on récupérera secondairement par une nouvelle filtration).    <br />
+<em>Rappel</em> : on récupère les pigments solides en les faisant précipiter à partir de la solution colorée liquide. On y ajoute pour cela de l’alun (mordant) et de la soude (base forte).</p>
+
+<p><strong>Méthode (testée et validée)</strong> :<br />
+1) 1 passage avec un filtre de taille moyenne —&gt; supprime les plus gros morceaux<br />
+2) 1 autre passage avec un filtre très fin (2 disques de coton dans un entonnoir) —&gt; supprime les plus petits morceaux</p>]]></content><author><name>Yanis Bendjelal</name></author><category term="docs" /><summary type="html"><![CDATA[Types de filtres faciles à mettre en place]]></summary></entry><entry><title type="html">Recherches et expériences médiums de lissage</title><link href="http://localhost:4000/site/docs/2024/05/30/reflexion-medium-lissage.html" rel="alternate" type="text/html" title="Recherches et expériences médiums de lissage" /><published>2024-05-30T00:00:00+02:00</published><updated>2024-05-30T00:00:00+02:00</updated><id>http://localhost:4000/site/docs/2024/05/30/reflexion%20medium%20lissage</id><content type="html" xml:base="http://localhost:4000/site/docs/2024/05/30/reflexion-medium-lissage.html"><![CDATA[<p>Un médium de lissage est un liquide permettant de diluer et liquéfier l’acrylique tout en conservant ses propriétés structurelles. En comparaison, diluer avec de l’eau pure augmente le risque que la peinture craquelle en séchant.<br />
+Le médium de lissage peut avoir d’autres effets, comme augmenter le temps de séchage de la peinture ou diminuer le mélange des couleurs.</p>
+
+<p>Il existe de nombreux médiums prêts à l’emploi. Certains que j’ai déjà</p>
+
+<h1 id="médiums-testés-personnellement">Médiums testés personnellement</h1>
+
+<h2 id="eau">Eau</h2>
+
+<p>Très bien en l’absence d’autre médium. Permet de tester si le pouring nous plaît.<br />
+Mais la peinture craquelle au séchage.</p>
+
+<h2 id="colle-blanche-polyvinylique">Colle blanche polyvinylique</h2>
+
+<h3 id="théorie">Théorie</h3>
+
+<p><strong>Principe</strong> : contient des polymères ressemblant à ceux de l’acrylique<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>.</p>
+
+<p><strong>Avantage principal</strong> : prix et viscosité.</p>
+
+<h3 id="pratique">Pratique</h3>
+
+<p>Personnellement, j’utilise la colle de marque Cléopatre, soit Vinyl’Ecole soit Vinyl’Médium.</p>
+
+<p>J’ai testé plusieurs mélanges :</p>
+
+<ul>
+  <li>50% colle + 50% peinture : mélange très visqueux, idéal pour peindre sur des objets.</li>
+  <li>33% colle % 33% peinture + 33% eau : mélange assez fluide pour du straight pour.</li>
+</ul>
+
+<p><img src="vinylecole.jpg" height="250" />         <img src="vinylmedium.jpg" height="250" /></p>
+
+<h2 id="médium-de-lissage-action">Médium de lissage action</h2>
+
+<p>Très bon marché mais difficile à trouver. <br />
+La peinture obtenue est très liquide, ce qui ne me convient pas. Je l’utilise parfois pour diluer un mélange peinture + médium de lissage trop visqueux.</p>
+
+<h1 id="médiums-à-tester">Médiums à tester</h1>
+
+<h3 id="easycryl">Easycryl</h3>
+
+<p>**En théorie **: Médium initialement créé pour la peinture murale. En ralentissant le temps de séchage de la peinture, cela permet d’éviter d’avoir des traces dues aux différents passages du pinceau. L’easycryl peut être appliqué à l’acrylique pouring<a href="https://www.facebook.com/groups/1105002916712321/learning_content/?filter=4357375347699357">2</a>.</p>
+
+<p><strong>Problème</strong> : Difficile de trouveer la dose idéale pour le mélange avec l’acrylique (variable selon le type d’acrylique).</p>
+
+<h3 id="floetrol-owatrol">Floetrol owatrol</h3>
+
+<p><strong>Attention</strong> : le filtrer pour evter qe des couleurs visqueuses ne passent</p>
+
+<p>Mélanger 1/1/1 avec de l’acrylique et de l’eau</p>
+
+<h3 id="mélange-11-médium-action-et-colle-cléopatre">Mélange 1/1 médium Action et colle cléopatre</h3>
+
+<h1 id="sources">Sources</h1>
+<p><a href="https://www.facebook.com/groups/1105002916712321/learning_content">Guides de l’association PICTURA AND CO</a></p>
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p>https://www.facebook.com/groups/1105002916712321/learning_content/?filter=4357375347699357 <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>]]></content><author><name>Yanis Bendjelal</name></author><category term="docs" /><summary type="html"><![CDATA[Un médium de lissage est un liquide permettant de diluer et liquéfier l’acrylique tout en conservant ses propriétés structurelles. En comparaison, diluer avec de l’eau pure augmente le risque que la peinture craquelle en séchant. Le médium de lissage peut avoir d’autres effets, comme augmenter le temps de séchage de la peinture ou diminuer le mélange des couleurs.]]></summary></entry></feed>
