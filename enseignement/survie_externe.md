@@ -57,7 +57,7 @@ Enfin, dites-vous qu’un mauvais stage a au moins l’avantage de vous montrer 
 
 Quoi qu’il en soit, mon meilleur atout pour bien vivre les stages a été mes co-externes. Avec le temps, nous sommes devenus amis, et c’est infiniment plus agréable de faire un stage dans ces conditions.  
 
-**Stages rentables pour le concours (indépendamment de tout intérêt personnel) :  **
+**Stages rentables pour le concours (indépendamment de tout intérêt personnel) :**     
 Tout d'abord, les stages dans des spécialités transversales : Médecine Générale, Urgences, Gériatrie, Médecine Interne, etc.  
 Ensuite, les spécialités à terrain particulier : Psychiatrie, Gynécologie, Pédiatrie, et encore une fois, Gériatrie.  
 Il y en a probablement d’autres, mais je ne suis pas encore passé par toutes.  
