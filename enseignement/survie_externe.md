@@ -41,24 +41,26 @@ layout: page
 ## Stages
 <a name="stages"></a>
 
-On a tous constaté que les stages sont très inégaux. Certains stages sont incroyables et nous donnent envie de faire la spécialité. D'autres stages sont nuls, on n'y apprends rien ou très peu, et l'ambiance est mauvaise voire malsaine. On peut même s'y faire harceler, j'en ai fait l'expérience.    
+Nous avons tous constaté que les stages sont très inégaux. Certains sont exceptionnels, ils nous inspirent et nous donnent envie de poursuivre la spécialité. D’autres, en revanche, sont désastreux : on n’y apprend rien ou presque, l’ambiance y est déplorable, voire toxique. Parfois, on peut même y être victime de harcèlement, ce que j'ai personnellement vécu.
 
-D'un point de vue général cependant, on a une très forte pression sociale pour toujours aller en stage. L'idée est que le bon externe, celui qui va réussir, trouvera toujours des choses à y apprendre. Et, de toute façon, c'est pas comme si vous pourriez utiliser ce temps pour réviser, puisque vous avez les aprems, qui sont largement suffisants ! Spoiler : c'est faux. Il y a peut-être 100 personnes sur l'ensemble des externes français de votre année qui y parviennent. C'est cool pour eux, mais ce n'est pas une raison pour que vous vous sentiez mal, ou même moins que. Si sur 10 000 personnes sélectionnées par un concours hypercompétitif, seulement 100 se sentent bien, peut-être que le problème vient du système et pas des externes.  
+Malgré cela, une forte pression sociale nous pousse à toujours être présents en stage. L’idée reçue est que l’externe « modèle », celui qui réussira, trouvera toujours quelque chose à y apprendre. Et puis, ce n’est pas comme si vous pouviez utiliser ce temps pour réviser, puisque vos après-midis sont amplement suffisants pour cela, n’est-ce pas ?   
+Spoiler : c’est faux. Peut-être que 100 personnes parmi tous les externes de votre année à travers la France y parviennent. Tant mieux pour eux, mais cela ne doit pas vous faire culpabiliser ou vous faire sentir inférieur. Si, sur 10 000 personnes ayant passé un concours ultra-compétitif, seulement 100 se sentent bien, il est peut-être temps de remettre en question le système et pas les étudiants.
 
-Ce que je veux dire, c'est pas de sécher tous les stages, mais qu'il n'y a aucune honte à être stratégique. Cad faire un bilan honnête qui prend en compte vos compétences personnelles, votre méthode de travail, vos objectifs, et l'intérêt des stages pour atteindre ceux-ci, et de régler votre temps de stage en fonction. Dans tous les cas, on vous critiquera, donc faites ce que vous voulez. Rappel : vous êtes adulte.
+Ce que je veux dire, ce n’est pas qu’il faut sécher tous les stages, mais qu’il n’y a aucune honte à être stratégique. Cela implique de faire un bilan honnête de vos compétences, de votre méthode de travail, de vos objectifs, et de l’utilité des stages pour les atteindre. Ajustez votre investissement en fonction de ce qui vous est réellement bénéfique. On vous critiquera toujours, alors autant faire ce qui est bon pour vous.   
+Rappel : vous êtes un adulte.  
 
-Si vous êtes dans le genre de mauvais stage, courage. J'ai pas de solution magique, mais je peux vous dire que personne n'a le droit de demander des comptes ou de contester un arrêt de travail. Si vous sentez au fond de vous que votre santé physique ou mentale est menacée, et que votre médecin traitant est assez inquiet pour vous arrêter, n'ayez aucune hésitation à le faire. L'hôpital tournera sans vous. 
+Si vous vous trouvez dans un mauvais stage, courage. Je n’ai pas de solution miracle, mais sachez que personne n’a le droit de vous reprocher ou de contester un arrêt de travail. Si vous sentez que votre santé physique ou mentale est en danger et que votre médecin traitant est suffisamment préoccupé pour vous arrêter, n’hésitez pas. L’hôpital continuera de tourner sans vous.  
 
-Petit tips en cas de harcèlement (donné par un ami juriste quand j'ai été harcelé) : il n'y a pas de fidélité de la preuve en droit pénal. Si vous êtes harcelé verbalement,  vous pouvez donc enregistrer les preuves de harcèlement à l'insu du harceleur sur un dictaphone et, si votre fac refuse de vous écouter quand vous passez par les canaux classiques (ce qui est possible), vous pouvez aller directement au tribunal. Personnellement, j'ai signalé le harcèlement au responsable des stages de ma fac, et il m'a conseillé de présenter mes excuses :upside_down_face:).
+Un conseil en cas de harcèlement (transmis par un ami juriste lors de mon propre cas de harcèlement) : en droit pénal, il n’y a pas de fidélité de la preuve. Si vous subissez un harcèlement verbal, vous pouvez enregistrer les faits à l’insu de votre harceleur. Si votre faculté refuse de vous écouter après avoir utilisé les canaux habituels (ce qui peut arriver), vous avez la possibilité d’aller directement au tribunal. Personnellement, lorsque j’ai signalé le harcèlement au responsable des stages de ma fac, il m’a conseillé de présenter mes excuses :upside_down_face: .  
 
-Enfin, dites-vous que le bon côté d'un mauvais stage est qu'il vous donne un exemple de ce qu'il ne faudra pas faire plus tard. Perso, j'ai une liste sur mon tel de tous les trucs que j'ai plus ou moins aimé pendant mes stages, et je compte essayer de les appliquer plus tard. Je me dit aussi que mon plus mauvais stage me permet d'apprécier mes autres stages en me donnant un exemple du pire (horrible de pensez ça je sais).
+Enfin, dites-vous qu’un mauvais stage a au moins l’avantage de vous montrer ce qu’il ne faudra pas reproduire plus tard. Personnellement, j’ai une liste sur mon téléphone de tout ce que j’ai apprécié ou détesté pendant mes stages, et je compte bien m’en inspirer pour l’avenir. Je me dis aussi que mon pire stage m’a permis d’apprécier davantage les autres en me donnant un exemple du pire (même si c’est une réflexion un peu cynique).  
 
-Quoi qu'il en soit, mon atout majeur pour bien vivre les stages était mes co-externes. Au bout d'un moment, on a finit par devenir potes, et c'est beaucoup mieux de faire un stage dans ces conditions.
+Quoi qu’il en soit, mon meilleur atout pour bien vivre les stages a été mes co-externes. Avec le temps, nous sommes devenus amis, et c’est infiniment plus agréable de faire un stage dans ces conditions.  
 
 **Stages rentables pour le concours (indépendamment de tout intérêt personnel) :  **
-Déjà les stages en spécialité transversale : Médecine Générale, Urgences, Gériatrie, Médecine Interne, etc.   
-Ensuite les spécialités à terrain particulier : Psychiatrie, Gynécologie, Pédiatrie, Gériatrie encore.  
-Il y en a sûrement d'autres mais je n'y suis pas passé.
+Tout d'abord, les stages dans des spécialités transversales : Médecine Générale, Urgences, Gériatrie, Médecine Interne, etc.  
+Ensuite, les spécialités à terrain particulier : Psychiatrie, Gynécologie, Pédiatrie, et encore une fois, Gériatrie.  
+Il y en a probablement d’autres, mais je ne suis pas encore passé par toutes.  
 
 ## Mode de travail
 <a name="travail"></a>
@@ -375,8 +377,8 @@ Pendant le mois de décembre, j'ai essayé de faire des fiches de situations de 
 En pratique, j'ai passé mon temps à peindre et regarder des séries en dehors des temps de stage. Les fiches que nous avons faites sont [ici](https://drive.google.com/drive/folders/1pTk4fI8cv0QyXZU89sb1RTDLp3Ad9NGA?usp=drive_link). Je vous conseille d'ailleurs le [MikBook](https://www.vg-librairies.fr/ecn-edn-r2c/7392-mikbook.html) pour avoir plus de situations de départ (nous les avons utilisées mais je les ai retirées du drive pour des raisons de droit d'auteur).   
 J'ai eu beaucoup de mal à préparer les ECOS, que je trouvais (et trouve toujours) inadaptés au classement des étudiants, et que je considère comme la porte ouverte à un retour à la discrimination au concours de l'internat.    
 A partir du mois de mars, j'ai essayé de me remettre au travail en reprenant les conférences Khalifa (1 ou deux par semaine). J'ai aussi prévu des créneau d'entraînements aux ECOS avec des potes pour me forcer à travailler un peu. Cependant, le fiasco des ECOS blancs m'a redémotivé pour le reste du mois.   
-A partir du mois d'avril, j'ai retrouvé un peu de foi, et j'ai fait quelques ankis et quelques entraînements par moi-même.  
-Sur le mois de mai, j'ai repris ma vie en main. J'ai utilisé mon fitbit pour me forcer à faire du sport régulièrement, et j'ai commencé à me lever à 5h tous les matins pour me préparer à la convocation à 7h00 les jours J. Après ça, je faisais beaucoup d'ankis pour réactiver mes plus anciennes connaissances.   
+A partir du mois d'avril, j'ai retrouvé un peu de foi, et j'ai fait quelques ankis et quelques entraînements par moi-même.   
+Sur le mois de mai, j'ai repris ma vie en main. J'ai utilisé mon fitbit pour me forcer à faire du sport régulièrement, et j'ai commencé à me lever à 5h tous les matins pour me préparer à la convocation à 7h00 les jours J. Après ça, je faisais beaucoup d'ankis pour réactiver mes plus anciennes connaissances.    
 La dernière semaine a été la plus importante. Je me suis associé avec 3 amies, et j'ai passé mes journées à faire des entraînements aux ECOS. On a saigné les ECOS des TBC et ECOSSIM.  J'ai aussi fait tous les ECOS en solo de ces supports. C'était intense mais ça m'a permi de maintenir mon classement à l'issue de cet enfer (mon objectif était de ne pas perdre plus de 2000 places).  
 
 Supports utilisés que je recommande :  
@@ -395,9 +397,9 @@ Supports utilisés que je recommande :
 
 
 ***Stage planque ou pas planque ?***  
-Déjà 0 honte à se planquer.  C'est le jeu du concours.
-Mon avis : si vous avez un super stage prenez-le. Sinon, et si vous voulez vous planquer, planquez-vous.  
-Personnellement je me suis planqué sur le dernier stage de la D3 et je ne l'ai pas regretté.  
+Déjà, 0 honte à se planquer.  C'est le jeu du concours.   
+Mon avis : si vous avez un super stage prenez-le. Sinon, et si vous voulez vous planquer, planquez-vous.   
+Personnellement je me suis planqué sur le dernier stage de la D3 et je ne l'ai pas regretté.   
 
 ***Ce que je regrette d'avoir fait trop tôt ?***  
 Rien
