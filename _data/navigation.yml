@@ -1,5 +1,6 @@
 - title: Home
   url: /
+
 - title: Recherche
   url: /recherche/
 - title: Logiciels
@@ -12,5 +13,7 @@
   url: /galerie/
 - title: Blog
   url: /autres/
+- title: Historique
+  url: /historique/
 #- title: Rechercher
 #  url: /search/

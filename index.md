@@ -35,10 +35,6 @@ Comme activité secondaire, je consulte en analyse de données avec mon entrepri
 ![Affectation](pictures/affectation.png "Affectation")
   
 * **Juillet 2024** : Elu VP Informatique de l'Association Nationale des Doubles Cursus en Santé (ANDCS)
-  
-* **Juin 2024** : Nommé Président du Collectif Interfacultaire Représentant les Externes en Médecine (CIREM)
-  
-* **Mai 2024** : Fin du deuxième cycle des études médicales
 
 # Formations
 
