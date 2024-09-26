@@ -23,3 +23,4 @@ En cours de construction.
   <iframe width="215" height="365" src="https://www.youtube.com/embed/s1mq1nEyvjI" title="J&#39;irai guérir chez vous- Générique" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
 - Vidéo de Théo Chaurang : [Réussir l’ECN/EDN sans bosser : mythe ou réalité ?](https://www.youtube.com/watch?v=K4mWp6lDya4)  
+- Livre de Statistiques en accès libre écrit par Denis Poinsot : [Statistiques pour statophobes](https://perso.univ-rennes1.fr/denis.poinsot/Statistiques_%20pour_statophobes/STATISTIQUES%20POUR%20STATOPHOBES.pdf)  
