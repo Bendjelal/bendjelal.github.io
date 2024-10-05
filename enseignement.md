@@ -18,7 +18,7 @@ En cours de construction.
 
 # Ressources utiles
 
-## Externat de Médecine
+### Externat de Médecine
 
 - Recueil de fiches Anki, datée de l'été 2024, rédigées et partagées par Leon Stefani : [Ici](https://drive.google.com/drive/folders/1YNQfyXgKBJ2n5Q7JOlx0HeiDlsMEWmtT)
 - [J'irai Guérir Chez Vous](https://www.youtube.com/channel/UC_2ZIHNIbXjYTcSeux8Foog), un pote a fait le tour des grandes villes de France à la recherche d'une ville où faire son internat
@@ -27,6 +27,6 @@ En cours de construction.
 </center>
 - Vidéo de Théo Chaurang : [Réussir l’ECN/EDN sans bosser : mythe ou réalité ?](https://www.youtube.com/watch?v=K4mWp6lDya4)  
 
-## Au-delà 
+### Au-delà 
 
 - Livre de Statistiques en accès libre écrit par Denis Poinsot : [Statistiques pour statophobes](https://perso.univ-rennes1.fr/denis.poinsot/Statistiques_%20pour_statophobes/STATISTIQUES%20POUR%20STATOPHOBES.pdf)  
