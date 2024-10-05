@@ -18,6 +18,7 @@ En cours de construction.
 
 # Ressources utiles
 
+- Recueil de fiches Anki, datée de l'été 2024, rédigées et partagées par Leon Stefani : [Ici](https://drive.google.com/drive/folders/1YNQfyXgKBJ2n5Q7JOlx0HeiDlsMEWmtT).
 - [J'irai Guérir Chez Vous](https://www.youtube.com/channel/UC_2ZIHNIbXjYTcSeux8Foog), un pote a fait le tour des grandes villes de France à la recherche d'une ville où faire son internat.
 <center>
   <iframe width="215" height="365" src="https://www.youtube.com/embed/s1mq1nEyvjI" title="J&#39;irai guérir chez vous- Générique" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
