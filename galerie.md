@@ -23,14 +23,14 @@ Je me plais à peindre sur mes heures perdues. Ici quelques créations que j'aim
         }
         .carousel-inner {
             display: flex;
-            width: 100%;
             height: 100%;
             transition: transform 0.5s ease;
+            width: auto; /* Supprimer la largeur fixe */
+            white-space: nowrap; /* Empêche le retour automatique à la ligne */
         }
         .carousel-item {
-            min-width: 100%;
-            height: 100%;
-        }
+            flex: 0 0 100%; /* Chaque item occupe 100% de la largeur du carousel */
+            }
         .carousel-item iframe {
             width: 100%;
             height: 100%;
