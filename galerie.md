@@ -147,6 +147,22 @@ Je me plais à peindre sur mes heures perdues. Ici quelques créations que j'aim
         });
 
         const carouselItems = document.querySelectorAll('.carousel-item');
+        const indicatorsContainer = document.querySelector('.carousel-indicators');
+
+            // Générer les indicateurs en fonction du nombre d'éléments
+            carouselItems.forEach((item, index) => {
+            const indicator = document.createElement('button');
+            indicator.setAttribute('data-slide', index);
+            if (index === 0) {
+                indicator.classList.add('active');
+            }
+            indicatorsContainer.appendChild(indicator);
+
+            indicator.addEventListener('click', () => {
+                currentIndex = index;
+                updateCarousel();
+            });
+            });
         const indicators = document.querySelectorAll('.carousel-indicators button');
 
         function updateCarousel() {
