@@ -159,17 +159,6 @@ Je me plais à peindre sur mes heures perdues. Ici quelques créations que j'aim
             <div class="carousel-item">
                 <iframe loading="lazy" src="https://drive.google.com/file/d/1zkXTTEShJ85LoZ8NorPH9_tzJZr_QBaZ/preview" title="Mix arc-en-ciel 1 (toile 20 x 20).heic"></iframe>
             </div>
-<!--
-            <div class="carousel-item">
-                <iframe loading="lazy" src="https://drive.google.com/file/d/1Z4_TdhjxeW8v8zJTkuVNlw7lajZPN-8J/preview" title="Mix arc-en-ciel 3 (toile 20 x 20).heic"></iframe>
-            </div>
-            <div class="carousel-item">
-                <iframe loading="lazy" src="https://drive.google.com/file/d/1Vy277BRddI0LgNKlpX2SllqdrHNgc2k_/preview" title="Mix arc-en-ciel 4 (toile 30 x 30).heic"></iframe>
-            </div>
--->
-            <div class="carousel-item">
-                <iframe loading="lazy" src="https://drive.google.com/file/d/1duI87n9ZxEGvqrdX-p1sZox4sH36aDwB/preview" title="Squeegee swipe 1 .heic"></iframe>
-            </div>
             <div class="carousel-item">
                 <iframe loading="lazy" src="https://drive.google.com/file/d/1m5f7i8b6NI4zGvD8Tq6Q3z5ssfUbREad/preview" title="Squeegee swipe 3 (CE 20 x 20).heic"></iframe>
             </div>
@@ -182,20 +171,39 @@ Je me plais à peindre sur mes heures perdues. Ici quelques créations que j'aim
             <div class="carousel-item">
                 <iframe loading="lazy" src="https://drive.google.com/file/d/1kzIoW4W0dapeRpknbBwmMKtjFLr-Ke6y/preview" ></iframe>
             </div>
-<!--
-            <div class="carousel-item">
-                <iframe loading="lazy" src="https://drive.google.com/file/d/186FZqYGxQQ6VSruiUmnNWGLH5wvbggoi/preview" title="Straight pour 7 (toile 40 x 40).heic"></iframe>
-            </div>
-            <div class="carousel-item">
-                <iframe loading="lazy" src="https://drive.google.com/file/d/1E0-0tLQoG8ywRxCkT9my-07O-wzpfFLD/preview" title="Géométrique 2 (CE 20 x 20).heic"></iframe>
-            </div>
--->
             <div class="carousel-item">
                 <iframe loading="lazy" src="https://drive.google.com/file/d/1jfwWYWx21eqiHQIsacpyGp24VWP6ORw-/preview" title="Puddle pour 1 - Colorful (toile 20 x 20).heic"></iframe>
             </div>
             <div class="carousel-item">
                 <iframe loading="lazy" src="https://drive.google.com/file/d/1_UVtOHtTDLjnFbCFae1dKi6kLpNzbYlu/preview" title="Puddle pour 2 (toile 40 x 40).heic"></iframe>
             </div>
+
+
+https://drive.google.com/file/d/1KKPpbET0LZGFh0c76Lho7F2oUDou2iPZ/view?usp=sharing
+https://drive.google.com/file/d/1KKPpbET0LZGFh0c76Lho7F2oUDou2iPZ/preview
+
+
+
+            </div>
+            <div class="carousel-item">
+                <iframe loading="lazy" src="https://drive.google.com/file/d/1KKPpbET0LZGFh0c76Lho7F2oUDou2iPZ/preview"></iframe>
+            </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
         </div>
         <div class="carousel-controls">
             <button id="prev">❮</button>
@@ -238,6 +246,7 @@ Je me plais à peindre sur mes heures perdues. Ici quelques créations que j'aim
             <button data-slide="33"></button>
             <button data-slide="34"></button>
             <button data-slide="35"></button>
+            <button data-slide="36"></button>
         </div>
     </div>
 
