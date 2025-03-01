@@ -8,10 +8,6 @@ entries_layout: grid
 
 Je me plais à peindre sur mes heures perdues. Ici quelques créations que j'aime particulièrement.
 
-<!--
-## Acrylique
--->
-
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
@@ -191,6 +187,19 @@ Je me plais à peindre sur mes heures perdues. Ici quelques créations que j'aim
         const prevButton = document.getElementById('prev');
         const nextButton = document.getElementById('next');
         const indicators = document.querySelectorAll('.carousel-indicators button');
+
+        function updateCarousel() {
+    const totalItems = carouselItems.length;
+    carouselInner.style.transform = `translateX(-${(currentIndex / totalItems) * 100}%)`;
+    
+    indicators.forEach((indicator, index) => {
+        indicator.classList.toggle('active', index === currentIndex);
+    });
+}
+
+
+// Appelle cette fonction au chargement de la page
+adjustCarouselWidth();
 
         let currentIndex = 0;
 
