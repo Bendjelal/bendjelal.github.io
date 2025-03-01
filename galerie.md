@@ -183,53 +183,54 @@ Je me plais à peindre sur mes heures perdues. Ici quelques créations que j'aim
 
     <script>
         const carouselInner = document.querySelector('.carousel-inner');
-        const carouselItems = document.querySelectorAll('.carousel-item');
-        const prevButton = document.getElementById('prev');
-        const nextButton = document.getElementById('next');
-        const indicators = document.querySelectorAll('.carousel-indicators button');
+const carouselItems = document.querySelectorAll('.carousel-item');
+const prevButton = document.getElementById('prev');
+const nextButton = document.getElementById('next');
+const indicators = document.querySelectorAll('.carousel-indicators button');
 
-        function updateCarousel() {
+let currentIndex = 0;
+
+function adjustCarouselWidth() {
     const totalItems = carouselItems.length;
-    carouselInner.style.transform = `translateX(-${(currentIndex / totalItems) * 100}%)`;
-    
+    carouselInner.style.width = `${totalItems * 100}%`; // Largeur totale ajustée
+    carouselItems.forEach(item => {
+        item.style.width = `${100 / totalItems}%`; // Chaque item prend la place qu'il faut
+    });
+
+    console.log("Nombre total d'éléments :", totalItems); // DEBUG
+}
+
+adjustCarouselWidth();
+
+function updateCarousel() {
+    const translateValue = -(currentIndex * 100);
+    carouselInner.style.transform = `translateX(${translateValue}%)`;
+
     indicators.forEach((indicator, index) => {
         indicator.classList.toggle('active', index === currentIndex);
     });
 }
 
+prevButton.addEventListener('click', () => {
+    currentIndex = (currentIndex > 0) ? currentIndex - 1 : carouselItems.length - 1;
+    updateCarousel();
+});
 
-// Appelle cette fonction au chargement de la page
-adjustCarouselWidth();
+nextButton.addEventListener('click', () => {
+    currentIndex = (currentIndex < carouselItems.length - 1) ? currentIndex + 1 : 0;
+    updateCarousel();
+});
 
-        let currentIndex = 0;
+indicators.forEach((indicator, index) => {
+    indicator.addEventListener('click', () => {
+        currentIndex = index;
+        updateCarousel();
+    });
+});
 
-        function updateCarousel() {
-            carouselInner.style.transform = `translateX(-${currentIndex * 100}%)`;
-            indicators.forEach((indicator, index) => {
-                if (index === currentIndex) {
-                    indicator.classList.add('active');
-                } else {
-                    indicator.classList.remove('active');
-                }
-            });
-        }
+// Appliquer directement la bonne position au chargement
+updateCarousel();
 
-        prevButton.addEventListener('click', () => {
-            currentIndex = (currentIndex > 0) ? currentIndex - 1 : carouselItems.length - 1;
-            updateCarousel();
-        });
-
-        nextButton.addEventListener('click', () => {
-            currentIndex = (currentIndex < carouselItems.length - 1) ? currentIndex + 1 : 0;
-            updateCarousel();
-        });
-
-        indicators.forEach((indicator, index) => {
-            indicator.addEventListener('click', () => {
-                currentIndex = index;
-                updateCarousel();
-            });
-        });
     </script>
 </body>
 
