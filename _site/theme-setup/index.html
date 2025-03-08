@@ -17,7 +17,7 @@
     
     <!-- Begin Jekyll SEO tag v2.8.0 -->
 <title>Theme Setup | Yanis Bendjelal</title>
-<meta name="generator" content="Jekyll v4.3.3" />
+<meta name="generator" content="Jekyll v3.10.0" />
 <meta property="og:title" content="Theme Setup" />
 <meta name="author" content="Yanis Bendjelal" />
 <meta property="og:locale" content="fr_FR" />
@@ -288,7 +288,7 @@ bundle <span class="nb">exec </span>jekyll serve
 <p>For example. Say you want to group all your posts under blog/ instead of articles/. In your post add <code class="language-plaintext highlighter-rouge">categories: blog</code> to the YAML front matter, rename or duplicate articles/index.md to blog/index.md and update the <em>for loop</em> to limit posts to just the blog category.</p>
 
 <div class="language-liquid highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
-<span class="cp">{%</span><span class="w"> </span><span class="nt">for</span><span class="w"> </span><span class="nv">post</span><span class="w"> </span><span class="nt">in</span><span class="w"> </span><span class="nv">site</span><span class="p">.</span><span class="nv">categories</span><span class="p">.</span><span class="nv">blog</span><span class="w"> </span><span class="cp">%}</span>
+<span class="p">{%</span><span class="w"> </span><span class="nt">for</span><span class="w"> </span><span class="nv">post</span><span class="w"> </span><span class="nt">in</span><span class="w"> </span><span class="nv">site.categories.blog</span><span class="w"> </span><span class="p">%}</span>
 
 </code></pre></div></div>
 
@@ -365,7 +365,7 @@ bundle <span class="nb">exec </span>jekyll serve
 
 <p>To add Facebook, Twitter, and Google+ share links to a post add the following YAML front matter.</p>
 
-<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">share</span><span class="pi">:</span> <span class="kc">true</span>
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">share</span><span class="pi">:</span> <span class="no">true</span>
 </code></pre></div></div>
 
 <p>Share links appear below author details in the sidebar.</p>
@@ -383,7 +383,7 @@ bundle <span class="nb">exec </span>jekyll serve
 
 <p>If you would like comments to appear on every post or page that uses the <code class="language-plaintext highlighter-rouge">post.html</code> layout simply add the following line to your <code class="language-plaintext highlighter-rouge">_config.yml</code> and you’re done.</p>
 
-<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">comments</span><span class="pi">:</span> <span class="kc">true</span>
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">comments</span><span class="pi">:</span> <span class="no">true</span>
 </code></pre></div></div>
 
 <p>To be more selective and granualar with which posts and pages Disqus comments appear on, add <code class="language-plaintext highlighter-rouge">comments: true</code> to the YAML Front Matter of each post or page instead.</p>

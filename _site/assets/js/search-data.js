@@ -12,7 +12,7 @@ var store = [{
         "title": "Acrylique écologique",
         "excerpt":"Peindre à l’acrylique nécessite d’utiliser de grandes quantités de matériel, à la fois en terme de peinture, en terme de supports et en terme d’additifs. Cette gourmandise en produits divers, souvent toxiques, contribue à un effet délétère sur l’environnement.Le but de ce post est de réfléchir à des moyens de...","categories": ["docs"],
         "tags": [],
-        "url": "http://localhost:4000/site/docs/2024/06/14/%C3%A9cologie.html"
+        "url": "http://localhost:4000/site/docs/2024/06/14/e-cologie.html"
       },{
         "title": "Chocolate Chip Cookies",
         "excerpt":"A chocolate chip cookie is a drop cookie that originated in the United States and features chocolate chips as its distinguishing ingredient. The traditional recipe combines a dough composed of butter and both brown and white sugar with semi-sweet chocolate chips. Variations include recipes with other types of chocolate as...","categories": [],
