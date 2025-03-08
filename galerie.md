@@ -36,7 +36,19 @@ Je me plais à peindre sur mes heures perdues. Ici quelques créations que j'aim
         "https://drive.google.com/file/d/1T0eCzwR_cnggGhCI1Nyfvzv8lJtTYEhQ/preview",
         "https://drive.google.com/file/d/11Ly-vJiB1BxAiS_l304TeShQR3uB3XFy/preview",
         "https://drive.google.com/file/d/1kzIoW4W0dapeRpknbBwmMKtjFLr-Ke6y/preview",
-        "https://drive.google.com/file/d/1jfwWYWx21eqiHQIsacpyGp24VWP6ORw-/preview"
+        "https://drive.google.com/file/d/1jfwWYWx21eqiHQIsacpyGp24VWP6ORw-/preview",
+        "https://drive.google.com/file/d/1_UVtOHtTDLjnFbCFae1dKi6kLpNzbYlu/preview",
+        "https://drive.google.com/file/d/1KKPpbET0LZGFh0c76Lho7F2oUDou2iPZ/preview",
+        "https://drive.google.com/file/d/1KKPpbET0LZGFh0c76Lho7F2oUDou2iPZ/preview",
+        "https://drive.google.com/file/d/1KKPpbET0LZGFh0c76Lho7F2oUDou2iPZ/preview",
+        "https://drive.google.com/file/d/1gDs4tg9bXbGWh1QFxVTtDyknBxXTg6JW/preview",
+        "https://drive.google.com/file/d/1Y7xQBQyjZEOBS9uezkTjPGE2tXfr-IUG/preview",
+        "https://drive.google.com/file/d/1zQiqZj41gz01YjikocEesDTKKcZwrM21/preview",
+        "https://drive.google.com/file/d/1fQrQqPQBzFBAvJXOhuVg7MBSIByBn6Ww/preview",
+        "https://drive.google.com/file/d/1IwvJ74ULtGGAipEjkI1JrVMDEYVijRjN/preview",
+        "https://drive.google.com/file/d/1-VFpdxP1uy5VOzrRTRyos2-zynGtDb66/preview",
+        "https://drive.google.com/file/d/1jxbNjmmxGQ3HRt4Po7KX_f7JjgfdzguL/preview",
+        "https://drive.google.com/file/d/1p0jnZpn6kxpfhRxc_zs9d6WaWxuBfq3r/preview"
     ];
 
     const carouselInner = document.querySelector('.carousel-inner');
@@ -45,6 +57,11 @@ Je me plais à peindre sur mes heures perdues. Ici quelques créations que j'aim
     const nextButton = document.getElementById('next');
     let currentIndex = 0;
 
+    // Supprime tout contenu existant
+    carouselInner.innerHTML = "";
+    carouselIndicators.innerHTML = "";
+
+    // Ajoute les images au carousel
     items.forEach((url, index) => {
         const item = document.createElement('div');
         item.classList.add('carousel-item');
@@ -67,9 +84,11 @@ Je me plais à peindre sur mes heures perdues. Ici quelques créations que j'aim
     const indicators = document.querySelectorAll('.carousel-indicators button');
 
     function updateCarousel() {
-        const translateValue = -(currentIndex * 100);
-        carouselInner.style.transform = `translateX(${translateValue}%)`;
+        const totalItems = carouselItems.length;
+        const translateValue = -(currentIndex * 100) + "%";
+        carouselInner.style.transform = `translateX(${translateValue})`;
 
+        // Met à jour les indicateurs
         indicators.forEach((indicator, index) => {
             indicator.classList.toggle('active', index === currentIndex);
         });
@@ -96,27 +115,47 @@ Je me plais à peindre sur mes heures perdues. Ici quelques créations que j'aim
 </script>
 
 <style>
+    /* Carrousel carré bien centré */
     .carousel {
         position: relative;
-        width: 750px;
-        height: 750px;
+        width: 100%;
+        max-width: 700px;
+        height: 700px;
         overflow: hidden;
         margin: auto;
+        background: #000;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 10px;
     }
+
+    /* Correction du centrage */
     .carousel-inner {
         display: flex;
-        transition: transform 0.5s ease;
-        width: auto;
-        white-space: nowrap;
-    }
-    .carousel-item {
-        flex: 0 0 100%;
-        height: 100%;
-    }
-    .carousel-item iframe {
+        transition: transform 0.5s ease-in-out;
         width: 100%;
         height: 100%;
     }
+
+    /* Forcer l'affichage carré et empêcher le décalage */
+    .carousel-item {
+        min-width: 100%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    /* Images affichées correctement */
+    .carousel-item iframe {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        border: none;
+    }
+
+    /* Navigation */
     .carousel-controls {
         position: absolute;
         top: 50%;
@@ -125,13 +164,23 @@ Je me plais à peindre sur mes heures perdues. Ici quelques créations que j'aim
         justify-content: space-between;
         transform: translateY(-50%);
     }
+
     .carousel-controls button {
         background-color: rgba(0, 0, 0, 0.5);
         border: none;
         color: white;
-        padding: 10px;
+        padding: 15px;
         cursor: pointer;
+        font-size: 24px;
+        border-radius: 5px;
     }
+
+    .carousel-controls button:hover {
+        background-color: rgba(255, 255, 255, 0.7);
+        color: black;
+    }
+
+    /* Indicateurs */
     .carousel-indicators {
         position: absolute;
         bottom: 10px;
@@ -139,16 +188,26 @@ Je me plais à peindre sur mes heures perdues. Ici quelques créations que j'aim
         display: flex;
         justify-content: center;
     }
+
     .carousel-indicators button {
-        background-color: rgba(0, 0, 0, 0.5);
+        background-color: rgba(255, 255, 255, 0.5);
         border: none;
-        color: white;
-        padding: 5px;
+        width: 10px;
+        height: 10px;
+        border-radius: 50%;
+        margin: 0 5px;
         cursor: pointer;
-        margin: 0 2px;
     }
+
     .carousel-indicators button.active {
         background-color: white;
-        color: black;
+    }
+
+    /* Mode Responsive */
+    @media (max-width: 768px) {
+        .carousel {
+            max-width: 350px;
+            height: 350px;
+        }
     }
 </style>
