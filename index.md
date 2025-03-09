@@ -31,10 +31,12 @@ Comme activité secondaire, je consulte en analyse de données avec mon entrepri
 
 # Nouveautés
 
-* **13/09/24** : Affectation d'interne en Allergologie à l'AP-HP, mon premier choix 😊   
+* **Décembre 2024** : Nommé représentant des membres juniors pour la taskforce "Angioedema in pregnancy" de l'EAACI.
+
+* **Septembre 2024** : Affectation d'interne en Allergologie à l'AP-HP 😊.  
 ![Affectation](pictures/affectation.png "Affectation")
   
-* **Juillet 2024** : Elu VP Informatique de l'Association Nationale des Doubles Cursus en Santé (ANDCS)
+* **Juillet 2024** : Elu VP Informatique de l'Association Nationale des Doubles Cursus en Santé (ANDCS).
 
 # Formations
 

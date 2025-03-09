@@ -1,17 +1,17 @@
-- title: Home
+- title: Accueil
   url: /
-- title: Recherche
+- title: Publications
   url: /recherche/
 - title: Logiciels
   url: /logiciels/
 - title: Enseignement
   url: /enseignement/
-- title: Associatif
-  url: /associatif/
+#- title: Associatif
+#  url: /associatif/
 - title: Galerie
   url: /galerie/
-- title: Blog
-  url: /autres/
+#- title: Blog
+#  url: /autres/
 - title: Historique
   url: /historique/
 #- title: Rechercher

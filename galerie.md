@@ -6,7 +6,7 @@ collection: galerie
 entries_layout: grid
 ---
 
-Je me plais à peindre sur mes heures perdues. Ici quelques créations que j'aime particulièrement.
+Quelques oeuvres dont je suis particulièrement content.
 
 <div class="carousel">
     <div class="carousel-inner"></div>

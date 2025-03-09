@@ -1,5 +1,5 @@
 ---
-title: Recherche
+title: Publications
 layout: page
 permalink: /recherche/
 ---
