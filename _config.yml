@@ -19,7 +19,7 @@ remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/default.css"
 locale: fr-FR
 title: "Yanis Bendjelal"
-description: "Interne en médecine & Chercheur"
+description: "Interne en médecine, Chercheur"
 baseurl: ""  # Doit être vide si ton site est à la racine
 url: "https://bendjelal.fr"  # Mets l'URL exacte de ton site
 #logo: "/images/so-simple-site-logo.png" # path of site logo, e.g. "/assets/images/logo.png"
