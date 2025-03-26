@@ -1,12 +1,10 @@
 ---
-title: Galerie
+title: Peinture
 layout: collection
 permalink: /galerie/
 collection: galerie 
 entries_layout: grid
 ---
-
-Quelques oeuvres dont je suis particulièrement content.
 
 <div class="carousel">
     <div class="carousel-inner"></div>
