@@ -39,7 +39,6 @@ entries_layout: grid
         "https://drive.google.com/file/d/1jfwWYWx21eqiHQIsacpyGp24VWP6ORw-/preview",
         "https://drive.google.com/file/d/1_UVtOHtTDLjnFbCFae1dKi6kLpNzbYlu/preview",
         "https://drive.google.com/file/d/174-BjUvhEHxHBTGwVRTzuvMcQEvICsIh/preview",
-        "https://drive.google.com/file/d/1sbXptxRHvH_QBXBDW6JdLnxYDYwFulVm/preview",
         "https://drive.google.com/file/d/1gDs4tg9bXbGWh1QFxVTtDyknBxXTg6JW/preview",
         "https://drive.google.com/file/d/1KKPpbET0LZGFh0c76Lho7F2oUDou2iPZ/preview",
         "https://drive.google.com/file/d/1Y7xQBQyjZEOBS9uezkTjPGE2tXfr-IUG/preview",
